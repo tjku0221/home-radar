@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>TJ 租屋資訊網</title>
+<style>
+:root{--bg:#12141a;--card:#1c1f28;--card2:#232733;--line:#2e3342;--txt:#e8eaf0;--sub:#9aa1b5;--gold:#e8b84b;--green:#4ade80;--pink:#f472b6;--blue:#60a5fa;--red:#f87171}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--txt);font-family:"Microsoft JhengHei",system-ui,sans-serif;padding:20px;max-width:1100px;margin:0 auto}
+h1{font-size:22px;color:var(--gold);margin-bottom:4px}
+.meta{color:var(--sub);font-size:12px;margin-bottom:16px}
+.barwrap{position:sticky;top:0;z-index:5;background:var(--bg);padding:8px 0 6px;margin-bottom:8px}
+.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+.chip{border:1px solid var(--line);background:var(--card2);color:var(--txt);border-radius:20px;padding:5px 14px;font-size:13px;cursor:pointer;user-select:none}
+.chip.on{background:var(--gold);color:#1a1a1a;border-color:var(--gold);font-weight:bold}
+.bar input[type=number]{width:90px;background:var(--card2);border:1px solid var(--line);color:var(--txt);border-radius:6px;padding:5px 8px;font-size:13px}
+.bar select{background:var(--card2);border:1px solid var(--line);color:var(--txt);border-radius:6px;padding:5px 8px;font-size:13px}
+.stats{display:flex;gap:10px;margin-bottom:14px;flex-wrap:wrap}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 16px;font-size:13px;color:var(--sub)}
+.stat b{color:var(--gold);font-size:18px;display:block}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;position:relative;display:flex;flex-direction:column;gap:6px}
+.card .cover{width:calc(100% + 28px);margin:-14px -14px 4px;height:180px;object-fit:cover;border-radius:12px 12px 0 0;background:var(--card2);display:block}
+.card.fav{border-color:var(--gold)}
+.card.gone{opacity:.45}
+.card .title{font-size:14px;font-weight:bold;line-height:1.4;padding-right:56px}
+.card .title a{color:var(--txt);text-decoration:none}
+.card .title a:hover{color:var(--gold)}
+.price{font-size:18px;color:var(--gold);font-weight:bold}
+.price .diff{font-size:12px;margin-left:6px}
+.diff.down{color:var(--green)}.diff.up{color:var(--red)}
+.sub{font-size:12px;color:var(--sub)}
+.tags{display:flex;flex-wrap:wrap;gap:4px}
+.tag{font-size:11px;border-radius:4px;padding:2px 6px;background:var(--card2);color:var(--sub)}
+.tag.social{background:#14532d;color:var(--green)}
+.tag.new{background:#4c1d3d;color:var(--pink)}
+.tag.gone{background:#450a0a;color:var(--red)}
+.btns{position:absolute;top:10px;right:10px;display:flex;gap:6px}
+.btns span{cursor:pointer;font-size:16px;opacity:.5}
+.btns span.on,.btns span:hover{opacity:1}
+.section{margin-top:30px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px}
+.section h2{font-size:16px;color:var(--gold);margin-bottom:10px}
+.section p,.section li{font-size:13px;color:var(--sub);line-height:1.8}
+.section a{color:var(--blue)}
+.empty{color:var(--sub);padding:40px;text-align:center}
+</style>
+</head>
+<body>
+<h1>🏠 TJ 租屋資訊網</h1>
+<div class="meta" id="meta"></div>
+<div class="stats" id="stats"></div>
+<div class="barwrap"><div class="bar">
+  <span class="chip on" data-g="all">全部區域</span>
+  <span class="chip" data-g="板橋">板橋</span>
+  <span class="chip" data-g="台北">萬華/中正</span>
+  <span class="chip" id="fSocial">只看社會住宅</span>
+  <span class="chip" id="fNew">只看新上架</span>
+  <span class="chip" id="fFav">⭐ 收藏</span>
+  <span class="chip" id="fHidden">顯示已淘汰</span>
+  <input type="number" id="maxPrice" placeholder="租金上限" step="1000">
+  <select id="sort">
+    <option value="new">最新上架</option>
+    <option value="priceAsc">租金低→高</option>
+    <option value="priceDesc">租金高→低</option>
+  </select>
+</div></div>
+<div class="grid" id="grid"></div>
+
+<div class="section">
+  <h2>📇 官方資源</h2>
+  <ul>
+    <li><a href="https://pip.moi.gov.tw" target="_blank">內政部不動產資訊平台</a> — 社會住宅包租代管業者名單（各期）</li>
+    <li><a href="https://www.hurc.org.tw" target="_blank">國家住宅及都市更新中心</a> — 五期業者聯絡資訊</li>
+    <li><a href="https://www.nthurc.org.tw" target="_blank">新北住都中心</a> — 包租代管案件列表（可篩板橋）</li>
+    <li><a href="https://nths.ntpc.gov.tw" target="_blank">新北市住宅補貼資訊服務網</a></li>
+  </ul>
+</div>
+<div class="section">
+  <h2>💰 300 億元中央擴大租金補貼（115 年度）— 台北市／新北市完整資訊</h2>
+  <p style="color:var(--green)">✅ <b>重點結論：本方案「沒有動產限制」，持有股票不影響資格。</b>審查只看兩項：①家庭成員均無自有房屋 ②所得低於門檻。但「所得」＝最近一年度綜所稅各類所得給付總額（含分離課稅），<b>股利會計入所得</b>，股票市值本身不計。</p>
+  <h3 style="font-size:14px;margin:12px 0 6px;color:var(--txt)">申請資格</h3>
+  <ul>
+    <li>家庭成員範圍：<b>申請人＋配偶＋未成年子女</b>（三代同堂的父母<b>不</b>計入）</li>
+    <li>家庭成員均無自有房屋（持有未滿 40㎡ 之共有房屋且其他共有人非家庭成員，視同無自有房屋）</li>
+    <li>未同時接受其他政府住宅協助（可切結放棄擇一）</li>
+  </ul>
+  <h3 style="font-size:14px;margin:12px 0 6px;color:var(--txt)">所得門檻（平均每人每月，家庭總所得÷12÷人數）</h3>
+  <table style="border-collapse:collapse;font-size:13px;color:var(--sub)">
+    <tr style="color:var(--txt)"><th style="border:1px solid var(--line);padding:6px 12px">地區</th><th style="border:1px solid var(--line);padding:6px 12px">一般（3 倍）</th><th style="border:1px solid var(--line);padding:6px 12px">育有未成年子女／新婚（3.5 倍）</th></tr>
+    <tr><td style="border:1px solid var(--line);padding:6px 12px">臺北市</td><td style="border:1px solid var(--line);padding:6px 12px">61,137 元</td><td style="border:1px solid var(--line);padding:6px 12px;color:var(--gold)">71,327 元</td></tr>
+    <tr><td style="border:1px solid var(--line);padding:6px 12px">新北市</td><td style="border:1px solid var(--line);padding:6px 12px">50,700 元</td><td style="border:1px solid var(--line);padding:6px 12px;color:var(--gold)">59,150 元</td></tr>
+  </table>
+  <h3 style="font-size:14px;margin:12px 0 6px;color:var(--txt)">每月補貼金額（第二級＝一般家庭）</h3>
+  <ul>
+    <li>臺北市（含萬華、中正）：<b>5,000 元</b>（第一級弱勢 8,000／第三級單身青年 3,000）</li>
+    <li>新北市板橋區：<b>4,000 元</b>（第一級 5,000／第三級 2,400）</li>
+    <li>加碼：<b>育有未成年子女（115 年前已出生，1 人）×1.4 倍</b> → 板橋 5,600 元／台北 7,000 元；新生兒與多子女倍數更高</li>
+  </ul>
+  <h3 style="font-size:14px;margin:12px 0 6px;color:var(--txt)">申請方式</h3>
+  <ul>
+    <li>受理期間：115/1/1 ～ 115/12/31，隨到隨辦（每年度延續辦理，舊案自動帶入）</li>
+    <li><a href="https://has.nlma.gov.tw/subsidyOnline/house300e/" target="_blank">線上申請入口</a>｜<a href="https://pip.moi.gov.tw/Publicize/Info/B1021" target="_blank">官方資格檢核及試算</a>｜<a href="https://pip.moi.gov.tw/V3/B/SCRB0102.aspx?mode=13&y=115" target="_blank">官方專區</a>）</li>
+    <li>諮詢電話：(02)7729-8003（國土署，平日 8:00-18:00）</li>
+  </ul>
+  <p style="margin-top:8px">📌 資料來源：內政部不動產資訊平台 115 年度專區（2026-07 查證）。</p>
+</div>
+<div class="section">
+  <h2>🏘️ 社宅「包租代管」房客資格 — 這個才有財產限制（與上面租金補貼是兩個不同制度）</h2>
+  <p>包租代管＝用<b>低於市價承租</b>（包租案約市價 8 折、代管案約 9 折，弱勢戶另有租金差額補助），所以資格審查較嚴：除了所得，還審<b>動產（存款＋股票等有價證券）與不動產</b>。</p>
+  <table style="border-collapse:collapse;font-size:13px;color:var(--sub);margin:8px 0">
+    <tr style="color:var(--txt)"><th style="border:1px solid var(--line);padding:6px 12px">項目</th><th style="border:1px solid var(--line);padding:6px 12px">臺北市（114 年度）</th><th style="border:1px solid var(--line);padding:6px 12px">新北市</th></tr>
+    <tr><td style="border:1px solid var(--line);padding:6px 12px">每人每月平均所得</td><td style="border:1px solid var(--line);padding:6px 12px">低於 71,327 元</td><td style="border:1px solid var(--line);padding:6px 12px">低於 59,150 元</td></tr>
+    <tr><td style="border:1px solid var(--line);padding:6px 12px;color:var(--pink)">動產限額（含股票）</td><td style="border:1px solid var(--line);padding:6px 12px;color:var(--pink)">760 萬元（全家合計）</td><td style="border:1px solid var(--line);padding:6px 12px;color:var(--pink)">479 萬元（全家合計）</td></tr>
+    <tr><td style="border:1px solid var(--line);padding:6px 12px">不動產限額</td><td style="border:1px solid var(--line);padding:6px 12px">943 萬元</td><td style="border:1px solid var(--line);padding:6px 12px">675 萬元</td></tr>
+    <tr><td style="border:1px solid var(--line);padding:6px 12px">自有住宅</td><td style="border:1px solid var(--line);padding:6px 12px" colspan="2">家庭成員均不得於雙北、基隆、桃園持有自有住宅</td></tr>
+  </table>
+  <ul>
+    <li>⚠️ <b>家庭成員定義比租金補貼寬</b>：包含申請人與配偶的「戶籍內直系親屬」——三代同堂若父母同戶籍，<b>父母的所得與財產也會併入計算</b>（租金補貼只算本人＋配偶＋未成年子女）。</li>
+    <li>臺北市物件市價租金上限 39,000 元（超過的物件不能加入計畫）。</li>
+    <li>與 300 億租金補貼<b>不可重複領取</b>：承租包租代管後仍可改領租金補貼（切結擇一），簽約前請業者兩邊試算。</li>
+    <li>來源：<a href="https://leasing-and-management.udd.gov.taipei/house-plan/" target="_blank">臺北市政府包租代管計畫說明</a>、新北市城鄉局 FAQ（2026-01 版，2026-07 查證）。</li>
+  </ul>
+  <h3 style="font-size:14px;margin:12px 0 6px;color:var(--txt)">👨‍👧 單親／家有 65 歲以上長者 — 額外資格整理</h3>
+  <table style="border-collapse:collapse;font-size:13px;color:var(--sub);margin:8px 0">
+    <tr style="color:var(--txt)"><th style="border:1px solid var(--line);padding:6px 12px">身分</th><th style="border:1px solid var(--line);padding:6px 12px">300 億租金補貼</th><th style="border:1px solid var(--line);padding:6px 12px">社宅／包租代管</th></tr>
+    <tr><td style="border:1px solid var(--line);padding:6px 12px">父母 65 歲以上（同戶籍）</td><td style="border:1px solid var(--line);padding:6px 12px">❌ 無作用——父母不計入家庭成員，年齡身分用不上（也不影響所得計算）</td><td style="border:1px solid var(--line);padding:6px 12px;color:var(--green)">✅ 65 歲以上屬住宅法「社會弱勢」→ 全戶可用<b>弱勢戶</b>身分：租金差額補助更高、業者優先媒合；台北市另加碼鼓勵房東出租電梯/一樓物件給長者弱勢戶</td></tr>
+    <tr><td style="border:1px solid var(--line);padding:6px 12px">單親（撫養未成年子女）</td><td style="border:1px solid var(--line);padding:6px 12px">加碼擇高不疊加：「育有未成年子女 ×1.4」已是較高倍數；單親本身非加碼項目，須先列冊「特殊境遇家庭」才算社會弱勢（×1.2，反而較低）</td><td style="border:1px solid var(--line);padding:6px 12px;color:var(--green)">✅ 政府直營社宅：台北市評點制<b>加分</b>、新北市列<b>優先戶</b>，中籤率較高；列冊特殊境遇家庭亦屬弱勢戶</td></tr>
+    <tr><td style="border:1px solid var(--line);padding:6px 12px">⚠️ 代價</td><td style="border:1px solid var(--line);padding:6px 12px">—</td><td style="border:1px solid var(--line);padding:6px 12px;color:var(--pink)">父母同戶籍＝所得與財產（含股票存款）全部併入審查，動產限額全家合計台北 760 萬／新北 479 萬，雙老資產多反而可能超標</td></tr>
+  </table>
+  <p>結論：全家財產在限額內 → 用弱勢戶身分走包租代管／社宅折扣最大；超標 → 回到自由市場租屋＋租金補貼（×1.4 加碼、不審動產），雙老與單親身分即派不上用場。特殊境遇家庭列冊：所得約低於最低生活費 2.5 倍且符合離婚/喪偶等法定事由，向區公所社會課申請。</p>
+  <h3 style="font-size:14px;margin:12px 0 6px;color:var(--txt)">兩制度快速比較</h3>
+  <table style="border-collapse:collapse;font-size:13px;color:var(--sub)">
+    <tr style="color:var(--txt)"><th style="border:1px solid var(--line);padding:6px 12px"></th><th style="border:1px solid var(--line);padding:6px 12px">300 億租金補貼</th><th style="border:1px solid var(--line);padding:6px 12px">包租代管（低於市價租）</th></tr>
+    <tr><td style="border:1px solid var(--line);padding:6px 12px">好處</td><td style="border:1px solid var(--line);padding:6px 12px">每月現金補貼（自由市場租屋皆可）</td><td style="border:1px solid var(--line);padding:6px 12px">租金約市價 8-9 折＋免仲介費＋公證補助</td></tr>
+    <tr><td style="border:1px solid var(--line);padding:6px 12px">動產（股票）審查</td><td style="border:1px solid var(--line);padding:6px 12px;color:var(--green)">無</td><td style="border:1px solid var(--line);padding:6px 12px;color:var(--pink)">有（雙北 760 萬／479 萬）</td></tr>
+    <tr><td style="border:1px solid var(--line);padding:6px 12px">父母計入家庭成員</td><td style="border:1px solid var(--line);padding:6px 12px;color:var(--green)">否</td><td style="border:1px solid var(--line);padding:6px 12px;color:var(--pink)">同戶籍即計入</td></tr>
+    <tr><td style="border:1px solid var(--line);padding:6px 12px">可否同時領</td><td style="border:1px solid var(--line);padding:6px 12px" colspan="2">不可重複，擇一（可切結轉換）</td></tr>
+  </table>
+</div>
+
+<script src="data/listings.js"></script>
+<script>
+const db = window.LISTINGS || {}, meta = window.META || {};
+const items = Object.values(db);
+const LS = JSON.parse(localStorage.getItem('rent_flags') || '{"fav":[],"hidden":[]}');
+const save = () => localStorage.setItem('rent_flags', JSON.stringify(LS));
+const state = { g: 'all', social: false, fresh: false, fav: false, showHidden: false, maxPrice: null, sort: 'new' };
+const daysAgo = (d) => Math.floor((new Date(meta.runDate || Date.now()) - new Date(d)) / 86400000);
+const isNew = (it) => daysAgo(it.firstSeen) <= 3;
+const isGone = (it) => it.lastSeen !== meta.runDate;
+
+document.getElementById('meta').textContent = `資料更新：${(meta.updatedAt||'').replace('T',' ').slice(0,16)}｜資料庫 ${items.length} 筆`;
+
+function render() {
+  let list = items.filter(it => {
+    if (state.g !== 'all' && it.group !== state.g) return false;
+    if (state.social && !it.social) return false;
+    if (state.fresh && !isNew(it)) return false;
+    if (state.fav && !LS.fav.includes(it.id)) return false;
+    if (!state.showHidden && LS.hidden.includes(it.id)) return false;
+    if (state.maxPrice && it.price > state.maxPrice) return false;
+    return true;
+  });
+  list.sort((a,b) => state.sort === 'priceAsc' ? a.price - b.price : state.sort === 'priceDesc' ? b.price - a.price : (b.firstSeen.localeCompare(a.firstSeen) || b.id - a.id));
+  // 統計
+  const s = document.getElementById('stats');
+  s.innerHTML = `
+    <div class="stat"><b>${list.length}</b>符合條件</div>
+    <div class="stat"><b>${items.filter(i=>i.social&&!isGone(i)).length}</b>社會住宅(全)</div>
+    <div class="stat"><b>${items.filter(isNew).length}</b>3日內新上架</div>
+    <div class="stat"><b>${LS.fav.length}</b>收藏</div>`;
+  const grid = document.getElementById('grid');
+  if (!list.length) { grid.innerHTML = '<div class="empty">沒有符合條件的物件</div>'; return; }
+  grid.innerHTML = list.map(it => {
+    const ph = it.priceHistory || [];
+    let diff = '';
+    if (ph.length >= 2) {
+      const d = ph.at(-1).price - ph.at(-2).price;
+      if (d) diff = `<span class="diff ${d<0?'down':'up'}">${d<0?'▼':'▲'}${Math.abs(d).toLocaleString()}</span>`;
+    }
+    const fav = LS.fav.includes(it.id), hid = LS.hidden.includes(it.id);
+    return `<div class="card ${fav?'fav':''} ${isGone(it)||hid?'gone':''}">
+      ${(it.imgLocal||it.img)?`<a href="${it.link}" target="_blank"><img class="cover" src="${it.imgLocal||it.img}" data-alt="${it.img||''}" referrerpolicy="no-referrer" loading="lazy" onerror="if(this.dataset.alt&&this.src.indexOf(this.dataset.alt)<0){this.src=this.dataset.alt}else{this.style.display='none'}"></a>`:''}
+      <div class="btns">
+        <span class="${fav?'on':''}" onclick="toggle('fav','${it.id}')">⭐</span>
+        <span class="${hid?'on':''}" onclick="toggle('hidden','${it.id}')" title="淘汰">🗑️</span>
+      </div>
+      <div class="title"><a href="${it.link}" target="_blank">${it.title}</a></div>
+      <div class="price">${(it.price||0).toLocaleString()} 元/月${diff}</div>
+      <div class="sub">${it.spec}</div>
+      <div class="sub">${it.address}　${it.distance}</div>
+      <div class="tags">
+        ${it.social?'<span class="tag social">社會住宅</span>':''}
+        ${isNew(it)?'<span class="tag new">🆕 '+(daysAgo(it.firstSeen)===0?'今日':daysAgo(it.firstSeen)+'天前')+'上架</span>':''}
+        ${isGone(it)?'<span class="tag gone">已下架</span>':''}
+        ${it.tags.filter(t=>!['社會住宅','精選'].includes(t)&&t.length<=6).slice(0,5).map(t=>`<span class="tag">${t}</span>`).join('')}
+      </div>
+    </div>`;
+  }).join('');
+}
+window.toggle = (k, id) => { const a = LS[k]; const i = a.indexOf(id); i >= 0 ? a.splice(i,1) : a.push(id); save(); render(); };
+document.querySelectorAll('.chip[data-g]').forEach(c => c.onclick = () => { document.querySelectorAll('.chip[data-g]').forEach(x=>x.classList.remove('on')); c.classList.add('on'); state.g = c.dataset.g; render(); });
+[['fSocial','social'],['fNew','fresh'],['fFav','fav'],['fHidden','showHidden']].forEach(([id,key]) => {
+  const el = document.getElementById(id);
+  el.onclick = () => { state[key] = !state[key]; el.classList.toggle('on'); render(); };
+});
+document.getElementById('maxPrice').oninput = (e) => { state.maxPrice = +e.target.value || null; render(); };
+document.getElementById('sort').onchange = (e) => { state.sort = e.target.value; render(); };
+render();
+</script>
+</body>
+</html>
