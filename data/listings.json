@@ -305,7 +305,7 @@
     "price": 125000
    }
   ],
-  "img": "https://img1.591.com.tw/video/cover/2026-06-16/3128366.png!1000x.water2.png",
+  "img": "https://img2.591.com.tw/video/cover/2026-06-16/3128366.png!1000x.water2.png",
   "imgLocal": "data/img/21463841.jpg"
  },
  "21466269": {
@@ -460,7 +460,7 @@
     "price": 35000
    }
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/07/178340738750431307.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/07/07/178340738750431307.jpg!510x400.jpg",
   "imgLocal": "data/img/21477797.jpg"
  },
  "21478926": {
@@ -1168,7 +1168,7 @@
     "price": 32000
    }
   ],
-  "img": "https://img2.591.com.tw/house/2026/06/28/178260969632067600.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/06/28/178260969632067600.jpg!510x400.jpg",
   "imgLocal": "data/img/21532953.jpg"
  },
  "21535268": {
@@ -1199,7 +1199,7 @@
     "price": 42000
    }
   ],
-  "img": "https://img1.591.com.tw/house/2026/06/28/178264281473828308.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/06/28/178264281473828308.jpg!510x400.jpg",
   "imgLocal": "data/img/21535268.jpg"
  },
  "21535549": {
@@ -1233,7 +1233,7 @@
     "price": 43000
    }
   ],
-  "img": "https://img2.591.com.tw/house/2026/07/06/178333342790844109.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/06/178333342790844109.jpg!510x400.jpg",
   "imgLocal": "data/img/21535549.jpg"
  },
  "21535965": {
@@ -1481,7 +1481,7 @@
     "price": 30000
    }
   ],
-  "img": "https://img1.591.com.tw/house/2026/06/29/178271615475650707.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/06/29/178271615475650707.jpg!510x400.jpg",
   "imgLocal": "data/img/21540213.jpg"
  },
  "21541091": {
@@ -1950,7 +1950,7 @@
  },
  "21565678": {
   "id": "21565678",
-  "title": "師大路🌶三個月起租-可開火🌶3房優選好屋",
+  "title": "優質社區👌精品房源~乾濕分離衛浴優選好屋",
   "link": "https://rent.591.com.tw/21565678",
   "price": 42000,
   "priceText": "42,000 元/月",
@@ -2100,7 +2100,7 @@
     "price": 67999
    }
   ],
-  "img": "https://img2.591.com.tw/house/2026/07/03/178305866243828302.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/03/178305866243828302.jpg!510x400.jpg",
   "imgLocal": "data/img/21569173.jpg"
  },
  "21571514": {
@@ -2131,7 +2131,7 @@
     "price": 35000
    }
   ],
-  "img": "https://img1.591.com.tw/video/cover/2026-07-11/3160952.png!1000x.water2.png",
+  "img": "https://img2.591.com.tw/video/cover/2026-07-11/3160952.png!1000x.water2.png",
   "imgLocal": "data/img/21571514.jpg"
  },
  "21572266": {
@@ -3184,8 +3184,8 @@
   "id": "21605588",
   "title": "古亭站，正3房2衛、全新翻修、要換氣密窗、收垃圾",
   "link": "https://rent.591.com.tw/21605588",
-  "price": 59999,
-  "priceText": "59,999 元/月",
+  "price": 54999,
+  "priceText": "54,999 元/月",
   "spec": "整層住家3房2廳42.4坪11F/12F",
   "address": "無中正區-和平西路一段",
   "distance": "距古亭292公尺",
@@ -3206,9 +3206,13 @@
    {
     "date": "2026-07-14",
     "price": 59999
+   },
+   {
+    "date": "2026-07-14",
+    "price": 54999
    }
   ],
-  "img": "https://img2.591.com.tw/house/2026/06/18/178177001738021609.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/06/18/178177001738021609.jpg!510x400.jpg",
   "imgLocal": "data/img/21605588.jpg"
  },
  "21607672": {
@@ -3797,7 +3801,7 @@
     "price": 43000
    }
   ],
-  "img": "https://img2.591.com.tw/house/2026/07/12/178380761635308602.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/12/178380761635308602.jpg!510x400.jpg",
   "imgLocal": "data/img/21619629.jpg"
  },
  "21620690": {
@@ -3921,7 +3925,7 @@
     "price": 31000
    }
   ],
-  "img": "https://img2.591.com.tw/house/2026/06/22/178213151440675901.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/06/22/178213151440675901.jpg!510x400.jpg",
   "imgLocal": "data/img/21624367.jpg"
  },
  "21624722": {
@@ -4293,7 +4297,7 @@
     "price": 27000
    }
   ],
-  "img": "https://img1.591.com.tw/video/cover/2026-07-06/3153735.png!1000x.water2.png",
+  "img": "https://img2.591.com.tw/video/cover/2026-07-06/3153735.png!1000x.water2.png",
   "imgLocal": "data/img/21629077.jpg"
  },
  "21630187": {
@@ -4422,12 +4426,12 @@
  },
  "21632581": {
   "id": "21632581",
-  "title": "古亭站，正3房2衛、全新翻修、可住辦、收垃圾、報稅洽優選好屋",
+  "title": "古亭站，正3房2衛、全新翻修、可住辦、收垃圾、報稅洽",
   "link": "https://rent.591.com.tw/21632581",
-  "price": 54999,
-  "priceText": "54,999 元/月",
+  "price": 52999,
+  "priceText": "52,999 元/月",
   "spec": "整層住家3房2廳42.4坪11F/12F",
-  "address": "中正區-和平西路一段",
+  "address": "無中正區-和平西路一段",
   "distance": "距古亭281公尺",
   "tags": [
    "近捷運",
@@ -4446,9 +4450,13 @@
    {
     "date": "2026-07-14",
     "price": 54999
+   },
+   {
+    "date": "2026-07-14",
+    "price": 52999
    }
   ],
-  "img": "https://img2.591.com.tw/house/2026/06/18/178176984811681200.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/06/18/178176984811681200.jpg!510x400.jpg",
   "imgLocal": "data/img/21632581.jpg"
  },
  "21633208": {
