@@ -104,6 +104,7 @@ async function scrapeSearch(page, search) {
     console.log(`🔍 ${s.name}`);
     try {
       const items = await scrapeSearch(page, s);
+      if (items.length === 0) throw new Error('抓到 0 筆，可能被 591 擋下或頁面結構改變');
       scrapedTotal += items.length;
       for (const it of items) {
         const old = db[it.id];
