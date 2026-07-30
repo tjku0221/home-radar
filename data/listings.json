@@ -16,12 +16,12 @@
    "可開伙",
    "可養寵物"
   ],
-  "img": "https://img1.591.com.tw/video/cover/2026-07-06/3155148.png!1000x.water2.png",
+  "img": "https://img2.591.com.tw/video/cover/2026-07-06/3155148.png!1000x.water2.png",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -32,10 +32,10 @@
  },
  "19593567": {
   "id": "19593567",
-  "title": "可申請租屋補助可入籍，住辦合一.鬧中取靜雙面採光。優選好屋",
+  "title": "優質整層住家，鬧中取靜雙面採光。房東自租免收服務費。優選好屋",
   "link": "https://rent.591.com.tw/19593567",
-  "price": 31500,
-  "priceText": "31,500 元/月",
+  "price": 28000,
+  "priceText": "28,000 元/月",
   "spec": "整層住家3房2廳31.1坪5F/6F",
   "address": "萬華區-艋舺大道120巷38弄12號",
   "distance": "距龍山寺393公尺",
@@ -52,11 +52,15 @@
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-07-25",
-  "lastSeen": "2026-07-25",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-25",
     "price": 31500
+   },
+   {
+    "date": "2026-07-30",
+    "price": 28000
    }
   ]
  },
@@ -82,7 +86,7 @@
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -108,12 +112,12 @@
    "近商圈",
    "隨時可遷入"
   ],
-  "img": "https://img2.591.com.tw/house/2026/05/15/177883430338582107.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/05/15/177883430338582107.jpg!510x400.jpg",
   "group": "板橋",
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -144,7 +148,7 @@
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -174,12 +178,12 @@
    "可報稅",
    "近商圈"
   ],
-  "img": "https://img2.591.com.tw/house/2026/07/07/178340738750431307.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/07/178340738750431307.jpg!510x400.jpg",
   "group": "台北",
   "social": true,
   "source": "萬華中正-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-26",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -187,34 +191,6 @@
    }
   ],
   "imgLocal": "data/img/21477797.jpg"
- },
- "21521018": {
-  "id": "21521018",
-  "title": "✨萬大路公寓✨",
-  "link": "https://rent.591.com.tw/21521018",
-  "price": 20000,
-  "priceText": "20,000 元/月",
-  "spec": "整層住家3房2廳20.8坪2F/4F",
-  "address": "萬華區-萬大路",
-  "distance": "距龍山寺880公尺",
-  "tags": [
-   "租金補貼",
-   "隨時可遷入",
-   "可開伙"
-  ],
-  "img": "https://img1.591.com.tw/house/2026/07/21/178462289128105101.jpg!510x400.jpg",
-  "group": "台北",
-  "social": false,
-  "source": "萬華中正-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 20000
-   }
-  ],
-  "imgLocal": "data/img/21521018.jpg"
  },
  "21522344": {
   "id": "21522344",
@@ -233,12 +209,12 @@
    "可報稅",
    "拎包入住"
   ],
-  "img": "https://img2.591.com.tw/house/2026/04/25/177708304697067206.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/04/25/177708304697067206.jpg!510x400.jpg",
   "group": "板橋",
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -246,36 +222,6 @@
    }
   ],
   "imgLocal": "data/img/21522344.jpg"
- },
- "21524246": {
-  "id": "21524246",
-  "title": "【匯翠社區】屋況極優住家三房可租補#禁寵物",
-  "link": "https://rent.591.com.tw/21524246",
-  "price": 40800,
-  "priceText": "40,800 元/月",
-  "spec": "整層住家3房2廳43.2坪16F/19F",
-  "address": "聯上匯翠板橋區-華江一路",
-  "distance": "距新埔民生657公尺",
-  "tags": [
-   "近捷運",
-   "新上架",
-   "租金補貼",
-   "有電梯",
-   "隨時可遷入",
-   "可開伙"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/07/16/178417962489532307.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-26",
-  "lastSeen": "2026-07-28",
-  "priceHistory": [
-   {
-    "date": "2026-07-26",
-    "price": 40800
-   }
-  ]
  },
  "21529437": {
   "id": "21529437",
@@ -299,7 +245,7 @@
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -307,222 +253,6 @@
    }
   ],
   "imgLocal": "data/img/21529437.jpg"
- },
- "21529684": {
-  "id": "21529684",
-  "title": "❤️重慶國中邊間三樓❤️可做辦公室",
-  "link": "https://rent.591.com.tw/21529684",
-  "price": 35000,
-  "priceText": "35,000 元/月",
-  "spec": "整層住家3房2廳30坪3F/5F",
-  "address": "板橋區-重慶路346巷",
-  "distance": "距板橋後站502公尺",
-  "tags": [
-   "租金補貼",
-   "可報稅",
-   "近商圈",
-   "隨時可遷入",
-   "可開伙",
-   "可養寵物"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/06/27/178254065739207109.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-27",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 35000
-   }
-  ],
-  "imgLocal": "data/img/21529684.jpg"
- },
- "21535549": {
-  "id": "21535549",
-  "title": "中正新城/一層兩戶/電梯將軍宅/超大實坪/3大房2衛/鄰公園",
-  "link": "https://rent.591.com.tw/21535549",
-  "price": 43000,
-  "priceText": "43,000 元/月",
-  "spec": "整層住家3房2廳47.5坪7F/7F",
-  "address": "中正新城萬華區-青年路68巷3弄",
-  "distance": "距青年路派出所187公尺",
-  "tags": [
-   "屋主直租",
-   "租金補貼",
-   "有電梯",
-   "隨時可遷入",
-   "可開伙"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/07/06/178333342790844109.jpg!510x400.jpg",
-  "group": "台北",
-  "social": false,
-  "source": "萬華中正-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 43000
-   }
-  ],
-  "imgLocal": "data/img/21535549.jpg"
- },
- "21535965": {
-  "id": "21535965",
-  "title": "浮洲車站1分◆超值3房◆可租補入籍★可貓",
-  "link": "https://rent.591.com.tw/21535965",
-  "price": 18000,
-  "priceText": "18,000 元/月",
-  "spec": "整層住家3房1廳24坪5F/5F",
-  "address": "板橋區-大觀路二段22巷",
-  "distance": "距臺鐵浮洲站100公尺",
-  "tags": [
-   "租金補貼",
-   "可報稅",
-   "隨時可遷入",
-   "可開伙",
-   "可養寵物",
-   "免管理費"
-  ],
-  "img": "https://img2.591.com.tw/house/2024/03/09/170995925281381603.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-27",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 18000
-   }
-  ],
-  "imgLocal": "data/img/21535965.jpg"
- },
- "21537467": {
-  "id": "21537467",
-  "title": "兆基社會住宅🏡府中美妝三房公寓",
-  "link": "https://rent.591.com.tw/21537467",
-  "price": 26000,
-  "priceText": "26,000 元/月",
-  "spec": "整層住家3房2廳27.8坪3F/4F",
-  "address": "板橋區-稚暉街64巷",
-  "distance": "距府中580公尺",
-  "tags": [
-   "近捷運",
-   "免服務費",
-   "社會住宅",
-   "可報稅",
-   "近商圈",
-   "隨時可遷入"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/07/01/178287362884163604.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": true,
-  "source": "板橋-社會住宅",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 26000
-   }
-  ],
-  "imgLocal": "data/img/21537467.jpg"
- },
- "21538746": {
-  "id": "21538746",
-  "title": "社會住宅/可租補/大觀國中浮洲運動公園大空間學區房",
-  "link": "https://rent.591.com.tw/21538746",
-  "price": 24000,
-  "priceText": "24,000 元/月",
-  "spec": "整層住家3房2廳24.4坪5F/5F",
-  "address": "板橋區-僑中一街124巷1弄",
-  "distance": "距國立臺灣藝術大學547公尺",
-  "tags": [
-   "免服務費",
-   "社會住宅",
-   "租金補貼",
-   "可報稅",
-   "隨時可遷入",
-   "可開伙"
-  ],
-  "img": "https://img1.591.com.tw/house/2026/06/02/178037183951552807.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": true,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-27",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 24000
-   }
-  ],
-  "imgLocal": "data/img/21538746.jpg"
- },
- "21539107": {
-  "id": "21539107",
-  "title": "☘️免爬高近捷運板橋站家庭補助4千起",
-  "link": "https://rent.591.com.tw/21539107",
-  "price": 22000,
-  "priceText": "22,000 元/月",
-  "spec": "整層住家3房1廳25坪2F/3F",
-  "address": "板橋區-民權路302巷1弄",
-  "distance": "距板橋553公尺",
-  "tags": [
-   "近捷運",
-   "租金補貼",
-   "可報稅",
-   "近商圈",
-   "隨時可遷入",
-   "可開伙"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/06/16/178158678992062707.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 22000
-   }
-  ],
-  "imgLocal": "data/img/21539107.jpg"
- },
- "21539732": {
-  "id": "21539732",
-  "title": "有善貓咪可租補新埔捷運四維公園方正三房",
-  "link": "https://rent.591.com.tw/21539732",
-  "price": 25000,
-  "priceText": "25,000 元/月",
-  "spec": "整層住家3房2廳23坪3F/5F",
-  "address": "公寓板橋區-文德路",
-  "distance": "距新埔民生420公尺",
-  "tags": [
-   "近捷運",
-   "租金補貼",
-   "可報稅",
-   "隨時可遷入",
-   "可開伙",
-   "免管理費"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/06/29/178271328249091007.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 25000
-   }
-  ],
-  "imgLocal": "data/img/21539732.jpg"
  },
  "21540213": {
   "id": "21540213",
@@ -535,18 +265,18 @@
   "distance": "距龍山寺496公尺",
   "tags": [
    "近捷運",
-   "新上架",
    "免服務費",
    "社會住宅",
    "可報稅",
-   "近商圈"
+   "近商圈",
+   "隨時可遷入"
   ],
-  "img": "https://img2.591.com.tw/house/2026/06/29/178271615475650707.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/06/29/178271615475650707.jpg!510x400.jpg",
   "group": "台北",
   "social": true,
   "source": "萬華中正-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-26",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -577,7 +307,7 @@
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -608,7 +338,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -638,7 +368,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-27",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-27",
@@ -649,37 +379,6 @@
     "price": 40000
    }
   ]
- },
- "21547617": {
-  "id": "21547617",
-  "title": "敦信社宅💙板橋舒適明亮3房💙免仲可租金補貼",
-  "link": "https://rent.591.com.tw/21547617",
-  "price": 27500,
-  "priceText": "27,500 元/月",
-  "spec": "整層住家3房2廳24.6坪5F/15F",
-  "address": "歐洲公園板橋區-國慶路158巷",
-  "distance": "距板橋後站394公尺",
-  "tags": [
-   "免服務費",
-   "社會住宅",
-   "可報稅",
-   "有電梯",
-   "隨時可遷入",
-   "可開伙"
-  ],
-  "img": "https://img1.591.com.tw/house/2025/07/31/175391748529505409.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": true,
-  "source": "板橋-社會住宅",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 27500
-   }
-  ],
-  "imgLocal": "data/img/21547617.jpg"
  },
  "21550531": {
   "id": "21550531",
@@ -701,9 +400,9 @@
   "img": "https://img2.591.com.tw/house/2017/01/14/148432995959350907.jpg!510x400.jpg",
   "group": "台北",
   "social": true,
-  "source": "萬華中正-社會住宅",
+  "source": "萬華中正-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-26",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -734,7 +433,7 @@
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -764,7 +463,7 @@
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -772,6 +471,35 @@
    }
   ],
   "imgLocal": "data/img/21555667.jpg"
+ },
+ "21556630": {
+  "id": "21556630",
+  "title": "捷運東門/忠孝新生雙捷運(租)-僑茂新生店",
+  "link": "https://rent.591.com.tw/21556630",
+  "price": 65000,
+  "priceText": "65,000 元/月",
+  "spec": "整層住家3房2廳34.7坪3F/7F",
+  "address": "中正區-金山南路一段67巷",
+  "distance": "距東門418公尺",
+  "tags": [
+   "近捷運",
+   "租金補貼",
+   "近商圈",
+   "有電梯",
+   "可開伙"
+  ],
+  "img": "https://img2.591.com.tw/house/2026/07/27/178514847607526006.jpg!510x400.jpg",
+  "group": "台北",
+  "social": false,
+  "source": "萬華中正-可租補",
+  "firstSeen": "2026-07-30",
+  "lastSeen": "2026-07-30",
+  "priceHistory": [
+   {
+    "date": "2026-07-30",
+    "price": 65000
+   }
+  ]
  },
  "21558140": {
   "id": "21558140",
@@ -795,7 +523,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-25",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-25",
@@ -820,12 +548,12 @@
    "拎包入住",
    "有電梯"
   ],
-  "img": "https://img1.591.com.tw/video/cover/2026-02-01/2940909.png!1000x.water2.png",
+  "img": "https://img2.591.com.tw/video/cover/2026-02-01/2940909.png!1000x.water2.png",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -851,12 +579,12 @@
    "可開伙",
    "可養寵物"
   ],
-  "img": "https://img2.591.com.tw/house/2026/07/02/178295864219382801.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/02/178295864219382801.jpg!510x400.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -882,12 +610,12 @@
    "可開伙",
    "可養寵物"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/08/178348727611077901.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/07/08/178348727611077901.jpg!510x400.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -913,12 +641,12 @@
    "可開伙",
    "免管理費"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/02/178296200914201503.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/07/02/178296200914201503.jpg!510x400.jpg",
   "group": "板橋",
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -949,7 +677,7 @@
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -980,7 +708,7 @@
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1006,12 +734,12 @@
    "租金補貼",
    "拎包入住"
   ],
-  "img": "https://img2.591.com.tw/house/2017/01/14/148432998273614601.jpg!1000x.water2.jpg",
+  "img": "https://img1.591.com.tw/house/2017/01/14/148432998273614601.jpg!1000x.water2.jpg",
   "group": "台北",
   "social": true,
-  "source": "萬華中正-社會住宅",
+  "source": "萬華中正-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-26",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1037,12 +765,12 @@
    "可報稅",
    "近商圈"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/28/178523535981621404.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/07/28/178523535981621404.jpg!510x400.jpg",
   "group": "板橋",
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1072,12 +800,12 @@
    "隨時可遷入",
    "可開伙"
   ],
-  "img": "https://img2.591.com.tw/house/2026/03/17/177373437450284202.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/03/17/177373437450284202.jpg!510x400.jpg",
   "group": "板橋",
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1108,7 +836,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1138,12 +866,12 @@
    "拎包入住",
    "近商圈"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/03/178305866243828302.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/29/178530460744303400.jpg!510x400.jpg",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1154,7 +882,7 @@
  },
  "21571514": {
   "id": "21571514",
-  "title": "🌟台大中正首選電梯雙房🌟",
+  "title": "稀有釋出❗️台大東門徐州林蔭電梯2+1房",
   "link": "https://rent.591.com.tw/21571514",
   "price": 35000,
   "priceText": "35,000 元/月",
@@ -1174,7 +902,7 @@
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1200,12 +928,12 @@
    "隨時可遷入",
    "可開伙"
   ],
-  "img": "https://img2.591.com.tw/house/2026/07/03/178308023602111303.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/03/178308023602111303.jpg!510x400.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1213,37 +941,6 @@
    }
   ],
   "imgLocal": "data/img/21572266.jpg"
- },
- "21572742": {
-  "id": "21572742",
-  "title": "板橋🏠租補戶籍❤️乾濕分離衛浴開窗✅前後陽台採光通風",
-  "link": "https://rent.591.com.tw/21572742",
-  "price": 36800,
-  "priceText": "36,800 元/月",
-  "spec": "整層住家3房2廳27.6坪4F/4F",
-  "address": "板橋區-復興街",
-  "distance": "距板橋495公尺",
-  "tags": [
-   "近捷運",
-   "租金補貼",
-   "近商圈",
-   "隨時可遷入",
-   "可開伙",
-   "免管理費"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/07/03/178308734377748201.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-27",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 36800
-   }
-  ],
-  "imgLocal": "data/img/21572742.jpg"
  },
  "21574635": {
   "id": "21574635",
@@ -1261,12 +958,12 @@
    "可開伙",
    "免管理費"
   ],
-  "img": "https://img2.591.com.tw/house/2026/07/06/178333166922446403.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/06/178333166922446403.jpg!510x400.jpg",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1274,37 +971,6 @@
    }
   ],
   "imgLocal": "data/img/21574635.jpg"
- },
- "21574921": {
-  "id": "21574921",
-  "title": "喬陽社宅+車站捷運三樓美寓+租屋補助+免仲介費+學區設備齊全優選好屋",
-  "link": "https://rent.591.com.tw/21574921",
-  "price": 28000,
-  "priceText": "28,000 元/月",
-  "spec": "整層住家3房2廳24.5坪3F/5F",
-  "address": "板橋區-漢生東路116巷",
-  "distance": "距板橋251公尺",
-  "tags": [
-   "影片賞屋",
-   "近捷運",
-   "免服務費",
-   "社會住宅",
-   "可報稅",
-   "拎包入住"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/07/04/178313599358036402.jpg!fit.1000x.water2.jpg",
-  "group": "板橋",
-  "social": true,
-  "source": "板橋-社會住宅",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 28000
-   }
-  ],
-  "imgLocal": "data/img/21574921.jpg"
  },
  "21576623": {
   "id": "21576623",
@@ -1328,7 +994,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1359,7 +1025,7 @@
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1394,7 +1060,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1402,66 +1068,6 @@
    }
   ],
   "imgLocal": "data/img/21581533.jpg"
- },
- "21587765": {
-  "id": "21587765",
-  "title": "附家具電梯三房_板橋土城交界_可租補",
-  "link": "https://rent.591.com.tw/21587765",
-  "price": 32000,
-  "priceText": "32,000 元/月",
-  "spec": "整層住家3房2廳33.4坪6F/12F",
-  "address": "森呼吸板橋區-廣和街",
-  "distance": "距板橋後站354公尺",
-  "tags": [
-   "租金補貼",
-   "拎包入住",
-   "有電梯",
-   "可開伙"
-  ],
-  "img": "https://img1.591.com.tw/house/2026/07/06/178332267389978108.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-27",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 32000
-   }
-  ],
-  "imgLocal": "data/img/21587765.jpg"
- },
- "21588520": {
-  "id": "21588520",
-  "title": "🏡【板橋大觀路3房｜匯康社會住宅｜免服務費】🏡",
-  "link": "https://rent.591.com.tw/21588520",
-  "price": 28000,
-  "priceText": "28,000 元/月",
-  "spec": "整層住家3房2廳27.8坪4F/4F",
-  "address": "板橋區-大觀路二段37巷",
-  "distance": "距亞東醫院508公尺",
-  "tags": [
-   "近捷運",
-   "免服務費",
-   "社會住宅",
-   "可報稅",
-   "拎包入住",
-   "隨時可遷入"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/07/06/178332725965175803.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": true,
-  "source": "板橋-社會住宅",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 28000
-   }
-  ],
-  "imgLocal": "data/img/21588520.jpg"
  },
  "21588759": {
   "id": "21588759",
@@ -1480,12 +1086,12 @@
    "近商圈",
    "有電梯"
   ],
-  "img": "https://img1.591.com.tw/house/2026/06/02/178037101734919301.jpg!fit.1000x.water2.jpg",
+  "img": "https://img2.591.com.tw/house/2026/06/02/178037101734919301.jpg!fit.1000x.water2.jpg",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1511,12 +1117,12 @@
    "可報稅",
    "有電梯"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/06/178333464521153303.jpg!fit.1000x.water2.jpg",
+  "img": "https://img2.591.com.tw/house/2026/07/06/178333464521153303.jpg!fit.1000x.water2.jpg",
   "group": "板橋",
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1524,37 +1130,6 @@
    }
   ],
   "imgLocal": "data/img/21589509.jpg"
- },
- "21589511": {
-  "id": "21589511",
-  "title": "🌟優質公寓3房🌟社宅🌟免服務費🌟可租補🌟",
-  "link": "https://rent.591.com.tw/21589511",
-  "price": 24000,
-  "priceText": "24,000 元/月",
-  "spec": "整層住家3房2廳27.1坪4F/4F",
-  "address": "板橋區-漢生東路23巷6號",
-  "distance": "距板橋230公尺",
-  "tags": [
-   "近捷運",
-   "免服務費",
-   "租金補貼",
-   "近商圈",
-   "可開伙",
-   "免管理費"
-  ],
-  "img": "https://img1.591.com.tw/house/2026/07/06/178333414393626409.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 24000
-   }
-  ],
-  "imgLocal": "data/img/21589511.jpg"
  },
  "21590794": {
   "id": "21590794",
@@ -1571,12 +1146,12 @@
    "隨時可遷入",
    "可開伙"
   ],
-  "img": "https://img1.591.com.tw/video/cover/2026-07-06/3155192.png!1000x.water2.png",
+  "img": "https://img2.591.com.tw/video/cover/2026-07-06/3155192.png!1000x.water2.png",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1602,12 +1177,12 @@
    "隨時可遷入",
    "可開伙"
   ],
-  "img": "https://img1.591.com.tw/video/cover/2026-07-08/3157240.png!1000x.water2.png",
+  "img": "https://img2.591.com.tw/video/cover/2026-07-08/3157240.png!1000x.water2.png",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1633,12 +1208,12 @@
    "近商圈",
    "有電梯"
   ],
-  "img": "https://img1.591.com.tw/video/cover/2026-05-08/3074063.png!1000x.water2.png",
+  "img": "https://img2.591.com.tw/video/cover/2026-05-08/3074063.png!1000x.water2.png",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1664,12 +1239,12 @@
    "有電梯",
    "隨時可遷入"
   ],
-  "img": "https://img1.591.com.tw/house/2026/04/20/177664851067192009.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/04/20/177664851067192009.jpg!510x400.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1695,12 +1270,12 @@
    "隨時可遷入",
    "可養寵物"
   ],
-  "img": "https://img2.591.com.tw/house/2026/07/07/178340878063197404.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/07/178340878063197404.jpg!510x400.jpg",
   "group": "板橋",
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1722,15 +1297,16 @@
    "租金補貼",
    "可報稅",
    "拎包入住",
+   "隨時可遷入",
    "高齡友善",
    "可入籍"
   ],
-  "img": "https://img2.591.com.tw/house/2026/07/07/178341986998615606.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/07/178341986998615606.jpg!510x400.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1738,68 +1314,6 @@
    }
   ],
   "imgLocal": "data/img/21596812.jpg"
- },
- "21603740": {
-  "id": "21603740",
-  "title": "🔥画世代已成11戶指名波哥👍3房｜含車管可租補傢俱電可談",
-  "link": "https://rent.591.com.tw/21603740",
-  "price": 50000,
-  "priceText": "50,000 元/月",
-  "spec": "整層住家3房2廳24坪19F/24F",
-  "address": "新美齊画世代板橋區-南雅西路一段132號",
-  "distance": "距府中捷運站614公尺",
-  "tags": [
-   "近捷運",
-   "社會住宅",
-   "可報稅",
-   "近商圈",
-   "有電梯",
-   "隨時可遷入"
-  ],
-  "img": "https://img1.591.com.tw/house/2026/07/08/178352273507674109.png!510x400.png",
-  "group": "板橋",
-  "social": true,
-  "source": "板橋-社會住宅",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 50000
-   }
-  ],
-  "imgLocal": "data/img/21603740.jpg"
- },
- "21603951": {
-  "id": "21603951",
-  "title": "捷運板橋5分◆新裝潢3房◆採光皆有窗★可租補",
-  "link": "https://rent.591.com.tw/21603951",
-  "price": 36799,
-  "priceText": "36,799 元/月",
-  "spec": "整層住家3房2廳26坪4F/4F",
-  "address": "板橋區-復興街",
-  "distance": "距板橋495公尺",
-  "tags": [
-   "近捷運",
-   "租金補貼",
-   "近商圈",
-   "隨時可遷入",
-   "可開伙",
-   "免管理費"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/07/08/178351085543624807.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-26",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 36799
-   }
-  ],
-  "imgLocal": "data/img/21603951.jpg"
  },
  "21604706": {
   "id": "21604706",
@@ -1818,12 +1332,12 @@
    "隨時可遷入",
    "可入籍"
   ],
-  "img": "https://img1.591.com.tw/house/2026/06/08/178090111044549304.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/06/08/178090111044549304.jpg!510x400.jpg",
   "group": "板橋",
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1854,7 +1368,7 @@
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1885,7 +1399,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1915,12 +1429,12 @@
    "隨時可遷入",
    "可開伙"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/20/178453320593576600.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/07/20/178453320593576600.jpg!510x400.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1955,7 +1469,7 @@
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -1981,12 +1495,12 @@
    "隨時可遷入",
    "可開伙"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/02/178297370917535402.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/07/02/178297370917535402.jpg!510x400.jpg",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -2017,43 +1531,13 @@
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-27",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-27",
     "price": 100000
    }
   ]
- },
- "21610800": {
-  "id": "21610800",
-  "title": "新美齊電梯3房❤電梯代收大露台❤公設齊全",
-  "link": "https://rent.591.com.tw/21610800",
-  "price": 44999,
-  "priceText": "44,999 元/月",
-  "spec": "整層住家3房2廳35坪3F/24F",
-  "address": "新美齊畫世紀板橋區-南雅西路一段",
-  "distance": "距府中捷運站703公尺",
-  "tags": [
-   "近捷運",
-   "租金補貼",
-   "可報稅",
-   "隨時可遷入",
-   "可入籍"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/07/09/178359923494382004.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 44999
-   }
-  ],
-  "imgLocal": "data/img/21610800.jpg"
  },
  "21611300": {
   "id": "21611300",
@@ -2077,7 +1561,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -2085,37 +1569,6 @@
    }
   ],
   "imgLocal": "data/img/21611300.jpg"
- },
- "21611389": {
-  "id": "21611389",
-  "title": "🔸可租補🔸江子翠捷運站🔸文聖國小🔸前後陽台🔸新整理",
-  "link": "https://rent.591.com.tw/21611389",
-  "price": 33000,
-  "priceText": "33,000 元/月",
-  "spec": "整層住家3房2廳25坪5F/5F",
-  "address": "板橋區-松柏街",
-  "distance": "距江子翠站333公尺",
-  "tags": [
-   "近捷運",
-   "新上架",
-   "租金補貼",
-   "隨時可遷入",
-   "可開伙",
-   "免管理費"
-  ],
-  "img": "https://img1.591.com.tw/house/2026/07/06/178330324826997908.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 33000
-   }
-  ],
-  "imgLocal": "data/img/21611389.jpg"
  },
  "21616606": {
   "id": "21616606",
@@ -2139,7 +1592,7 @@
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-28",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-28",
@@ -2169,7 +1622,7 @@
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -2177,36 +1630,6 @@
    }
   ],
   "imgLocal": "data/img/21618119.jpg"
- },
- "21622296": {
-  "id": "21622296",
-  "title": "膝蓋救星✨稀有低樓層戶✨採光三房✨可雙租補✨拎包入住",
-  "link": "https://rent.591.com.tw/21622296",
-  "price": 30000,
-  "priceText": "30,000 元/月",
-  "spec": "整層住家3房2廳15坪1F/3F",
-  "address": "萬安街/中山路二段板橋區-萬安街20巷10弄",
-  "distance": "距光復橋396公尺",
-  "tags": [
-   "租金補貼",
-   "拎包入住",
-   "近商圈",
-   "隨時可遷入",
-   "可開伙"
-  ],
-  "img": "https://img1.591.com.tw/house/2026/07/12/178384764251593601.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-26",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 30000
-   }
-  ],
-  "imgLocal": "data/img/21622296.jpg"
  },
  "21622390": {
   "id": "21622390",
@@ -2230,7 +1653,7 @@
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -2259,9 +1682,9 @@
   "img": "https://img1.591.com.tw/house/2026/06/22/178213151440675901.jpg!510x400.jpg",
   "group": "台北",
   "social": true,
-  "source": "萬華中正-社會住宅",
+  "source": "萬華中正-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-26",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -2269,37 +1692,6 @@
    }
   ],
   "imgLocal": "data/img/21624367.jpg"
- },
- "21624722": {
-  "id": "21624722",
-  "title": "易居社會住宅✨板橋3房2廳雙陽台｜可租補｜家具全｜可小犬",
-  "link": "https://rent.591.com.tw/21624722",
-  "price": 24500,
-  "priceText": "24,500 元/月",
-  "spec": "整層住家3房2廳24.9坪3F/5F",
-  "address": "板橋區-大觀路二段179巷",
-  "distance": "距亞東醫院761公尺",
-  "tags": [
-   "近捷運",
-   "免服務費",
-   "社會住宅",
-   "租金補貼",
-   "近商圈",
-   "可開伙"
-  ],
-  "img": "https://img1.591.com.tw/house/2026/07/13/178390389727512600.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": true,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-26",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 24500
-   }
-  ],
-  "imgLocal": "data/img/21624722.jpg"
  },
  "21624830": {
   "id": "21624830",
@@ -2318,12 +1710,12 @@
    "可開伙",
    "可養寵物"
   ],
-  "img": "https://img1.591.com.tw/house/2026/06/22/178211175256471305.jpg!fit.1000x.water2.jpg",
+  "img": "https://img2.591.com.tw/house/2026/06/22/178211175256471305.jpg!fit.1000x.water2.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -2354,7 +1746,7 @@
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -2362,37 +1754,6 @@
    }
   ],
   "imgLocal": "data/img/21624963.jpg"
- },
- "21625640": {
-  "id": "21625640",
-  "title": "🎖️卓悦聯盟🎖️MRT江子翠立信吾界3房車",
-  "link": "https://rent.591.com.tw/21625640",
-  "price": 37550,
-  "priceText": "37,550 元/月",
-  "spec": "整層住家3房2廳33.4坪7F/15F",
-  "address": "立信吾界板橋區-華江一路",
-  "distance": "距板橋106公尺",
-  "tags": [
-   "近捷運",
-   "租金補貼",
-   "拎包入住",
-   "有電梯",
-   "隨時可遷入",
-   "可開伙"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/07/13/178391026591739209.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-26",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 37550
-   }
-  ],
-  "imgLocal": "data/img/21625640.jpg"
  },
  "21627365": {
   "id": "21627365",
@@ -2411,12 +1772,12 @@
    "可報稅",
    "近商圈"
   ],
-  "img": "https://img2.591.com.tw/house/2026/05/26/177976274919285205.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/05/26/177976274919285205.jpg!510x400.jpg",
   "group": "板橋",
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -2442,12 +1803,12 @@
    "隨時可遷入",
    "可開伙"
   ],
-  "img": "https://img1.591.com.tw/house/2026/06/05/178064409653033406.png!510x400.png",
+  "img": "https://img2.591.com.tw/house/2026/06/05/178064409653033406.png!510x400.png",
   "group": "板橋",
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -2478,7 +1839,7 @@
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -2509,7 +1870,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -2517,68 +1878,6 @@
    }
   ],
   "imgLocal": "data/img/21633338.jpg"
- },
- "21636388": {
-  "id": "21636388",
-  "title": "板橋大觀路⭐️靜巷超值整層3房⭐️免仲介費可租補",
-  "link": "https://rent.591.com.tw/21636388",
-  "price": 15000,
-  "priceText": "15,000 元/月",
-  "spec": "整層住家3房2廳20坪4F/4F",
-  "address": "板橋區-大觀路二段7巷",
-  "distance": "距亞東醫院555公尺",
-  "tags": [
-   "近捷運",
-   "租金補貼",
-   "近商圈",
-   "隨時可遷入",
-   "可開伙",
-   "免管理費"
-  ],
-  "img": "https://img1.591.com.tw/house/2026/07/20/178452832454510008.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-26",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 15000
-   }
-  ],
-  "imgLocal": "data/img/21636388.jpg"
- },
- "21637418": {
-  "id": "21637418",
-  "title": "🌈優選💥MRT府中站💥景觀三房💥全新未住✨️含傢具電",
-  "link": "https://rent.591.com.tw/21637418",
-  "price": 45000,
-  "priceText": "45,000 元/月",
-  "spec": "整層住家3房2廳40.2坪3F/24F",
-  "address": "新美齊画世代板橋區-南雅西路一段",
-  "distance": "距府中捷運站610公尺",
-  "tags": [
-   "近捷運",
-   "租金補貼",
-   "近商圈",
-   "有電梯",
-   "隨時可遷入",
-   "可開伙"
-  ],
-  "img": "https://img1.591.com.tw/house/2026/05/27/177987702599402000.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 45000
-   }
-  ],
-  "imgLocal": "data/img/21637418.jpg"
  },
  "21638817": {
   "id": "21638817",
@@ -2602,7 +1901,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -2610,34 +1909,6 @@
    }
   ],
   "imgLocal": "data/img/21638817.jpg"
- },
- "21641321": {
-  "id": "21641321",
-  "title": "萬華精華區！西園路二段🔥大坪數套房✨可租屋補助",
-  "link": "https://rent.591.com.tw/21641321",
-  "price": 32000,
-  "priceText": "32,000 元/月",
-  "spec": "整層住家3房2廳23坪4F/5F",
-  "address": "萬華區-西園路二段254巷",
-  "distance": "距龍山寺912公尺",
-  "tags": [
-   "租金補貼",
-   "可開伙",
-   "可養寵物"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/07/15/178408944019285902.jpg!510x400.jpg",
-  "group": "台北",
-  "social": false,
-  "source": "萬華中正-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 32000
-   }
-  ],
-  "imgLocal": "data/img/21641321.jpg"
  },
  "21641374": {
   "id": "21641374",
@@ -2661,7 +1932,7 @@
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -2670,40 +1941,9 @@
   ],
   "imgLocal": "data/img/21641374.jpg"
  },
- "21642878": {
-  "id": "21642878",
-  "title": "❤️江子翠站🔸可租補報稅🔸雙陽台🔸廚房可炊",
-  "link": "https://rent.591.com.tw/21642878",
-  "price": 33000,
-  "priceText": "33,000 元/月",
-  "spec": "整層住家3房2廳26坪5F/5F",
-  "address": "❤️看房請+Line板橋區-松柏街",
-  "distance": "距江子翠站291公尺",
-  "tags": [
-   "近捷運",
-   "租金補貼",
-   "可報稅",
-   "近商圈",
-   "隨時可遷入",
-   "可開伙"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/07/15/178410125949663109.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 33000
-   }
-  ],
-  "imgLocal": "data/img/21642878.jpg"
- },
  "21650652": {
   "id": "21650652",
-  "title": "兆基社會住宅🏠友善屋源🧡西門站/雙衛浴/可租補入籍優選好屋",
+  "title": "兆基社會住宅🏠友善屋源🧡西門站/雙衛浴/可租補入籍",
   "link": "https://rent.591.com.tw/21650652",
   "price": 26000,
   "priceText": "26,000 元/月",
@@ -2712,18 +1952,18 @@
   "distance": "距西門360公尺",
   "tags": [
    "近捷運",
-   "新上架",
    "免服務費",
    "社會住宅",
    "可報稅",
-   "近商圈"
+   "近商圈",
+   "隨時可遷入"
   ],
   "img": "https://img1.591.com.tw/house/2026/07/20/178454280259949702.jpg!510x400.jpg",
   "group": "台北",
   "social": true,
   "source": "萬華中正-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-26",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -2749,12 +1989,12 @@
    "有電梯",
    "隨時可遷入"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/17/178423319156396006.jpeg!510x400.jpeg",
+  "img": "https://img2.591.com.tw/house/2026/07/17/178423319156396006.jpeg!510x400.jpeg",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -2762,37 +2002,6 @@
    }
   ],
   "imgLocal": "data/img/21653047.jpg"
- },
- "21655398": {
-  "id": "21655398",
-  "title": "廿一社會住宅：潤泰文樺3房車/可租補",
-  "link": "https://rent.591.com.tw/21655398",
-  "price": 35000,
-  "priceText": "35,000 元/月",
-  "spec": "整層住家3房2廳36坪8F/22F",
-  "address": "潤泰文樺板橋區-華江一路",
-  "distance": "距江子翠站572公尺",
-  "tags": [
-   "近捷運",
-   "免服務費",
-   "社會住宅",
-   "可報稅",
-   "有電梯",
-   "可開伙"
-  ],
-  "img": "https://img1.591.com.tw/house/2026/07/17/178426839231601708.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": true,
-  "source": "板橋-社會住宅",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-28",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 35000
-   }
-  ],
-  "imgLocal": "data/img/21655398.jpg"
  },
  "21655447": {
   "id": "21655447",
@@ -2811,12 +2020,12 @@
    "有電梯",
    "隨時可遷入"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/17/178426871522545204.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/07/17/178426871522545204.jpg!510x400.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -2847,7 +2056,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-27",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-27",
@@ -2876,7 +2085,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -2902,12 +2111,12 @@
    "拎包入住",
    "隨時可遷入"
   ],
-  "img": "https://img1.591.com.tw/video/cover/2026-06-08/3117820.png!1000x.water2.png",
+  "img": "https://img2.591.com.tw/video/cover/2026-06-08/3117820.png!1000x.water2.png",
   "group": "板橋",
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -2915,36 +2124,6 @@
    }
   ],
   "imgLocal": "data/img/21666466.jpg"
- },
- "21666993": {
-  "id": "21666993",
-  "title": "捷運新埔民生5分◆超值2+1房◆可租補可貓★變頻冷氣",
-  "link": "https://rent.591.com.tw/21666993",
-  "price": 24999,
-  "priceText": "24,999 元/月",
-  "spec": "整層住家3房2廳22坪3F/5F",
-  "address": "板橋區-文德路",
-  "distance": "距新海派出所84公尺",
-  "tags": [
-   "近捷運",
-   "租金補貼",
-   "可開伙",
-   "可養寵物",
-   "免管理費"
-  ],
-  "img": "https://img1.591.com.tw/house/2026/07/19/178446980492641303.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-27",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 24999
-   }
-  ],
-  "imgLocal": "data/img/21666993.jpg"
  },
  "21668322": {
   "id": "21668322",
@@ -2968,7 +2147,7 @@
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -3003,7 +2182,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -3029,12 +2208,12 @@
    "有電梯",
    "隨時可遷入"
   ],
-  "img": "https://img2.591.com.tw/house/2026/07/20/178451481298603704.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/20/178451481298603704.jpg!510x400.jpg",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -3045,7 +2224,7 @@
  },
  "21669700": {
   "id": "21669700",
-  "title": "易居社會住宅✨萬華火車站｜可租補優選好屋",
+  "title": "易居社會住宅✨萬華火車站｜可租補",
   "link": "https://rent.591.com.tw/21669700",
   "price": 30000,
   "priceText": "30,000 元/月",
@@ -3054,18 +2233,18 @@
   "distance": "距龍山寺793公尺",
   "tags": [
    "近捷運",
-   "新上架",
    "免服務費",
    "社會住宅",
    "近商圈",
-   "可開伙"
+   "可開伙",
+   "免管理費"
   ],
   "img": "https://img1.591.com.tw/house/2026/07/20/178452121489453103.jpg!510x400.jpg",
   "group": "台北",
   "social": true,
   "source": "萬華中正-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-26",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -3091,12 +2270,12 @@
    "可報稅",
    "有電梯"
   ],
-  "img": "https://img2.591.com.tw/house/2026/07/20/178452245679916701.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/20/178452245679916701.jpg!510x400.jpg",
   "group": "板橋",
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -3104,37 +2283,6 @@
    }
   ],
   "imgLocal": "data/img/21669884.jpg"
- },
- "21671618": {
-  "id": "21671618",
-  "title": "萬華3房低樓層變頻冷氣大空間設備齊全/可租補報稅入籍免仲介費",
-  "link": "https://rent.591.com.tw/21671618",
-  "price": 30700,
-  "priceText": "30,700 元/月",
-  "spec": "整層住家3房1廳25坪2F/4F",
-  "address": "社宅可租補報稅入籍免仲介費萬華區-寶興街80巷",
-  "distance": "距龍山寺1041公尺",
-  "tags": [
-   "新上架",
-   "免服務費",
-   "社會住宅",
-   "可報稅",
-   "拎包入住",
-   "可開伙"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/07/20/178453331417446109.jpg!510x400.jpg",
-  "group": "台北",
-  "social": true,
-  "source": "萬華中正-社會住宅",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-26",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 30700
-   }
-  ],
-  "imgLocal": "data/img/21671618.jpg"
  },
  "21672392": {
   "id": "21672392",
@@ -3158,7 +2306,7 @@
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -3189,7 +2337,7 @@
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -3215,12 +2363,12 @@
    "隨時可遷入",
    "可開伙"
   ],
-  "img": "https://img1.591.com.tw/video/cover/2026-07-20/3172993.png!1000x.water2.png",
+  "img": "https://img2.591.com.tw/video/cover/2026-07-20/3172993.png!1000x.water2.png",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-23",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-23",
@@ -3238,19 +2386,18 @@
   "address": "自強新村板橋區-自強新村88號",
   "distance": "距新海派出所321公尺",
   "tags": [
-   "新上架",
    "租金補貼",
    "隨時可遷入",
    "可開伙",
    "免管理費",
    "可入籍"
   ],
-  "img": "https://img2.591.com.tw/house/2026/07/23/178481726497918205.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/23/178481726497918205.jpg!510x400.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-25",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-25",
@@ -3261,37 +2408,6 @@
     "price": 33000
    }
   ]
- },
- "21674425": {
-  "id": "21674425",
-  "title": "✔🍎可租補｜江翠北側重劃區｜3房｜",
-  "link": "https://rent.591.com.tw/21674425",
-  "price": 59000,
-  "priceText": "59,000 元/月",
-  "spec": "整層住家3房2廳27.9坪16F/19F",
-  "address": "歡迎代租代售代管 0986517011板橋區-華江一路",
-  "distance": "距江子翠站484公尺",
-  "tags": [
-   "近捷運",
-   "租金補貼",
-   "可報稅",
-   "有電梯",
-   "隨時可遷入",
-   "可開伙"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/02/12/177090416429189701.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 59000
-   }
-  ],
-  "imgLocal": "data/img/21674425.jpg"
  },
  "21675408": {
   "id": "21675408",
@@ -3304,18 +2420,18 @@
   "distance": "距莒光派出所150公尺",
   "tags": [
    "近捷運",
-   "新上架",
    "免服務費",
    "社會住宅",
    "可報稅",
-   "近商圈"
+   "近商圈",
+   "有電梯"
   ],
-  "img": "https://img2.591.com.tw/house/2026/07/21/178459668405942204.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/21/178459668405942204.jpg!510x400.jpg",
   "group": "台北",
   "social": true,
   "source": "萬華中正-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-26",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -3345,7 +2461,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -3364,19 +2480,19 @@
   "address": "中正區-詔安街50巷8弄",
   "distance": "距螢橋國小231公尺",
   "tags": [
-   "新上架",
    "免服務費",
    "社會住宅",
    "可報稅",
    "隨時可遷入",
-   "可開伙"
+   "可開伙",
+   "可養寵物"
   ],
   "img": "https://img1.591.com.tw/house/2026/07/21/178461538214622807.jpg!510x400.jpg",
   "group": "台北",
   "social": true,
   "source": "萬華中正-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-26",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -3387,7 +2503,7 @@
  },
  "21677946": {
   "id": "21677946",
-  "title": "星鴻社會住宅🌟免服務費/府中商圈/近湳雅夜市3房2廳大空間",
+  "title": "星鴻社會住宅🌟免服務費/府中商圈/近湳雅夜市3房/公寓5樓",
   "link": "https://rent.591.com.tw/21677946",
   "price": 24999,
   "priceText": "24,999 元/月",
@@ -3407,7 +2523,7 @@
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -3438,7 +2554,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -3446,37 +2562,6 @@
    }
   ],
   "imgLocal": "data/img/21678023.jpg"
- },
- "21678887": {
-  "id": "21678887",
-  "title": "社宅免服務費!🏡板橋車站旁｜中山國中學區3房｜生活機能完善優選好屋",
-  "link": "https://rent.591.com.tw/21678887",
-  "price": 24000,
-  "priceText": "24,000 元/月",
-  "spec": "整層住家3房1廳27.1坪4F/4F",
-  "address": "板橋區-漢生東路23巷",
-  "distance": "距板橋230公尺",
-  "tags": [
-   "近捷運",
-   "新上架",
-   "免服務費",
-   "社會住宅",
-   "可報稅",
-   "近商圈"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/07/21/178462264259737900.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": true,
-  "source": "板橋-社會住宅",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-28",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 24000
-   }
-  ],
-  "imgLocal": "data/img/21678887.jpg"
  },
  "21678927": {
   "id": "21678927",
@@ -3495,12 +2580,12 @@
    "可開伙",
    "免管理費"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/21/178462278157278603.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/07/21/178462278157278603.jpg!510x400.jpg",
   "group": "板橋",
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -3531,7 +2616,7 @@
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -3557,12 +2642,12 @@
    "近商圈",
    "隨時可遷入"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/21/178463166808752006.jpeg!510x400.jpeg",
+  "img": "https://img2.591.com.tw/house/2026/07/21/178463166808752006.jpeg!510x400.jpeg",
   "group": "板橋",
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -3593,7 +2678,7 @@
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -3617,18 +2702,18 @@
   "distance": "距西門464公尺",
   "tags": [
    "屋主直租",
-   "影片賞屋",
    "近捷運",
-   "新上架",
    "租金補貼",
-   "拎包入住"
+   "拎包入住",
+   "近商圈",
+   "有電梯"
   ],
-  "img": "https://img1.591.com.tw/video/cover/2026-07-23/3176678.png!1000x.water2.png",
+  "img": "https://img1.591.com.tw/house/2026/07/26/178506094870581709.jpg!510x400.jpg",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -3636,99 +2721,6 @@
    }
   ],
   "imgLocal": "data/img/21681800.jpg"
- },
- "21682562": {
-  "id": "21682562",
-  "title": "凱旋大道漂亮景觀豪宅雙捷運近家樂福",
-  "link": "https://rent.591.com.tw/21682562",
-  "price": 125000,
-  "priceText": "125,000 元/月",
-  "spec": "整層住家3房2廳82坪9F/14F",
-  "address": "敦年凱旋大道中正區-中華路一段",
-  "distance": "距西門403公尺",
-  "tags": [
-   "影片賞屋",
-   "近捷運",
-   "新上架",
-   "租金補貼",
-   "可報稅",
-   "有電梯"
-  ],
-  "img": "https://img1.591.com.tw/video/cover/2026-06-16/3128366.png!1000x.water2.png",
-  "group": "台北",
-  "social": false,
-  "source": "萬華中正-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 125000
-   }
-  ],
-  "imgLocal": "data/img/21682562.jpg"
- },
- "21683534": {
-  "id": "21683534",
-  "title": "府中亞東捷運❤️新整修3房可租補優選好屋",
-  "link": "https://rent.591.com.tw/21683534",
-  "price": 24999,
-  "priceText": "24,999 元/月",
-  "spec": "整層住家3房2廳30坪5F/5F",
-  "address": "板橋區-南雅西路一段",
-  "distance": "距府中捷運站705公尺",
-  "tags": [
-   "近捷運",
-   "新上架",
-   "租金補貼",
-   "可報稅",
-   "隨時可遷入",
-   "可開伙"
-  ],
-  "img": "https://img1.591.com.tw/house/2026/07/22/178469506755431403.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-25",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 24999
-   }
-  ],
-  "imgLocal": "data/img/21683534.jpg"
- },
- "21683713": {
-  "id": "21683713",
-  "title": "四維公園新埔國小❤️可租補可寵貓狗❤️台水台電優選好屋",
-  "link": "https://rent.591.com.tw/21683713",
-  "price": 24999,
-  "priceText": "24,999 元/月",
-  "spec": "整層住家3房1廳21坪3F/5F",
-  "address": "板橋區-文德路",
-  "distance": "距新海派出所99公尺",
-  "tags": [
-   "近捷運",
-   "新上架",
-   "租金補貼",
-   "可報稅",
-   "近商圈",
-   "隨時可遷入"
-  ],
-  "img": "https://img1.591.com.tw/house/2026/07/22/178469658078214004.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-22",
-  "lastSeen": "2026-07-26",
-  "priceHistory": [
-   {
-    "date": "2026-07-22",
-    "price": 24999
-   }
-  ],
-  "imgLocal": "data/img/21683713.jpg"
  },
  "21684523": {
   "id": "21684523",
@@ -3751,7 +2743,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-23",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-23",
@@ -3781,7 +2773,7 @@
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-23",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-23",
@@ -3806,12 +2798,12 @@
    "近商圈",
    "有電梯"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/22/178472378192020204.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/07/22/178472378192020204.jpg!510x400.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-23",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-23",
@@ -3840,46 +2832,16 @@
    "可開伙",
    "免管理費"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/26/178504088663123908.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/07/26/178504088663123908.jpg!510x400.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-27",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-27",
     "price": 37990
-   }
-  ]
- },
- "21687316": {
-  "id": "21687316",
-  "title": "捷運江子翠2分◆電梯2+1房◆採光皆有窗★車位洽優選好屋",
-  "link": "https://rent.591.com.tw/21687316",
-  "price": 48499,
-  "priceText": "48,499 元/月",
-  "spec": "整層住家3房2廳38坪9F/15F",
-  "address": "三輝都匯2部曲板橋區-莊敬路",
-  "distance": "距江子翠361公尺",
-  "tags": [
-   "近捷運",
-   "新上架",
-   "租金補貼",
-   "拎包入住",
-   "近商圈",
-   "有電梯"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/07/22/178472843700516509.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-23",
-  "lastSeen": "2026-07-27",
-  "priceHistory": [
-   {
-    "date": "2026-07-23",
-    "price": 48499
    }
   ]
  },
@@ -3894,18 +2856,18 @@
   "distance": "距府中捷運站446公尺",
   "tags": [
    "近捷運",
-   "新上架",
    "租金補貼",
    "拎包入住",
    "近商圈",
-   "有電梯"
+   "有電梯",
+   "隨時可遷入"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/23/178473851674095404.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/07/23/178473851674095404.jpg!510x400.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-23",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-23",
@@ -3913,9 +2875,39 @@
    }
   ]
  },
+ "21688043": {
+  "id": "21688043",
+  "title": "府中🚝租補戶籍✅全新裝潢❤️小家庭/合租客首選✅拎包入住優選好屋",
+  "link": "https://rent.591.com.tw/21688043",
+  "price": 39000,
+  "priceText": "39,000 元/月",
+  "spec": "整層住家3房1廳25坪2F/4F",
+  "address": "板橋區-南雅南路一段",
+  "distance": "距府中捷運站446公尺",
+  "tags": [
+   "近捷運",
+   "租金補貼",
+   "可報稅",
+   "拎包入住",
+   "近商圈",
+   "隨時可遷入"
+  ],
+  "img": "https://img1.591.com.tw/house/2026/07/24/178482391213822605.jpg!510x400.jpg",
+  "group": "板橋",
+  "social": false,
+  "source": "板橋-可租補",
+  "firstSeen": "2026-07-30",
+  "lastSeen": "2026-07-30",
+  "priceHistory": [
+   {
+    "date": "2026-07-30",
+    "price": 39000
+   }
+  ]
+ },
  "21691500": {
   "id": "21691500",
-  "title": "溪北生態公園，二樓美寓，全新裝潢🤩",
+  "title": "近樹林火車站🚉溪北生態公園，二樓美寓，全新裝潢🤩",
   "link": "https://rent.591.com.tw/21691500",
   "price": 25000,
   "priceText": "25,000 元/月",
@@ -3924,9 +2916,9 @@
   "distance": "距樹林火車站919公尺",
   "tags": [
    "屋主直租",
-   "新上架",
    "租金補貼",
    "隨時可遷入",
+   "可開伙",
    "免管理費"
   ],
   "img": "https://img2.591.com.tw/house/2026/07/23/178479257322006705.jpg!510x400.jpg",
@@ -3934,7 +2926,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-25",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-25",
@@ -3953,18 +2945,18 @@
   "distance": "距府中捷運站334公尺",
   "tags": [
    "近捷運",
-   "新上架",
    "租金補貼",
    "拎包入住",
    "近商圈",
-   "隨時可遷入"
+   "隨時可遷入",
+   "可開伙"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/23/178479943637471606.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/07/23/178479943637471606.jpg!510x400.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-25",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-25",
@@ -3972,42 +2964,12 @@
    }
   ]
  },
- "21694304": {
-  "id": "21694304",
-  "title": "🚨萬板大橋旁三房釋出🔥超低公設＝四台冷氣優選好屋",
-  "link": "https://rent.591.com.tw/21694304",
-  "price": 31000,
-  "priceText": "31,000 元/月",
-  "spec": "整層住家3房2廳31.4坪5F/10F",
-  "address": "統領世界板橋區-萬板路",
-  "distance": "距江子翠790公尺",
-  "tags": [
-   "近捷運",
-   "新上架",
-   "免服務費",
-   "社會住宅",
-   "租金補貼",
-   "可報稅"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/04/25/177708304697067206.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": true,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-25",
-  "lastSeen": "2026-07-25",
-  "priceHistory": [
-   {
-    "date": "2026-07-25",
-    "price": 31000
-   }
-  ]
- },
  "21696463": {
   "id": "21696463",
   "title": "植物園好採光靜巷一樓進出方便",
   "link": "https://rent.591.com.tw/21696463",
-  "price": 40000,
-  "priceText": "40,000 元/月",
+  "price": 38000,
+  "priceText": "38,000 元/月",
   "spec": "整層住家3房2廳25坪1F/1F",
   "address": "中正區-汀州路一段140巷",
   "distance": "距植物園196公尺",
@@ -4024,17 +2986,21 @@
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-07-25",
-  "lastSeen": "2026-07-25",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-25",
     "price": 40000
+   },
+   {
+    "date": "2026-07-30",
+    "price": 38000
    }
   ]
  },
  "21698244": {
   "id": "21698244",
-  "title": "社會住宅|採光佳|一年起租|人氣社區優選好屋",
+  "title": "府中商圈*南雅夜市❤️可租補/社宅/新整理三房☎️住商找房優選好屋",
   "link": "https://rent.591.com.tw/21698244",
   "price": 25000,
   "priceText": "25,000 元/月",
@@ -4049,12 +3015,12 @@
    "可報稅",
    "隨時可遷入"
   ],
-  "img": "https://img2.591.com.tw/house/2026/07/24/178487989689734504.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/24/178487989689734504.jpg!510x400.jpg",
   "group": "板橋",
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-25",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-25",
@@ -4078,12 +3044,12 @@
    "可開伙",
    "免管理費"
   ],
-  "img": "https://img2.591.com.tw/house/2026/07/13/178395797595566408.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/13/178395797595566408.jpg!510x400.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-25",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-25",
@@ -4113,7 +3079,7 @@
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-07-25",
-  "lastSeen": "2026-07-25",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-25",
@@ -4137,12 +3103,12 @@
    "隨時可遷入",
    "可開伙"
   ],
-  "img": "https://img2.591.com.tw/house/2026/07/08/178349971772480502.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/08/178349971772480502.jpg!510x400.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-25",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-25",
@@ -4167,12 +3133,12 @@
    "近商圈",
    "隨時可遷入"
   ],
-  "img": "https://img2.591.com.tw/house/2026/07/25/178490898308026109.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/25/178490898308026109.jpg!510x400.jpg",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-07-25",
-  "lastSeen": "2026-07-25",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-25",
@@ -4180,71 +3146,63 @@
    }
   ]
  },
- "21701620": {
-  "id": "21701620",
-  "title": "👍板橋社宅可雙租補入籍免仲~",
-  "link": "https://rent.591.com.tw/21701620",
-  "price": 23000,
-  "priceText": "23,000 元/月",
-  "spec": "整層住家3房2廳24.9坪5F/5F",
-  "address": "板橋社宅可租補入籍免仲板橋區-廣和街122號",
-  "distance": "距板橋後站381公尺",
+ "21704507": {
+  "id": "21704507",
+  "title": "萬華新建案/租補稅籍/可寵/首批入住/採光通風/包裹垃圾收",
+  "link": "https://rent.591.com.tw/21704507",
+  "price": 42000,
+  "priceText": "42,000 元/月",
+  "spec": "整層住家3房2廳29.9坪8F/11F",
+  "address": "萬華車站艋舺商圈萬華區-艋舺大道",
+  "distance": "距龍山寺193公尺",
   "tags": [
-   "新上架",
-   "免服務費",
-   "社會住宅",
-   "租金補貼",
-   "可報稅",
-   "隨時可遷入"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/05/05/177794930017490400.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": true,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-25",
-  "lastSeen": "2026-07-25",
-  "priceHistory": [
-   {
-    "date": "2026-07-25",
-    "price": 23000
-   }
-  ]
- },
- "21705094": {
-  "id": "21705094",
-  "title": "看完內文再來電近正隆廣場，民生公園，自來水公司，低樓層全空屋",
-  "link": "https://rent.591.com.tw/21705094",
-  "price": 22000,
-  "priceText": "22,000 元/月",
-  "spec": "整層住家3房2廳30坪2F/5F",
-  "address": "板橋區-三民路二段",
-  "distance": "距板新628公尺",
-  "tags": [
+   "影片賞屋",
    "近捷運",
    "新上架",
    "租金補貼",
-   "近商圈",
-   "可開伙",
-   "可入籍"
+   "可報稅",
+   "近商圈"
   ],
-  "img": "https://s.591.com.tw/house/list-no-photo.D_uUth2x.png",
-  "group": "板橋",
+  "img": "https://img1.591.com.tw/video/cover/2026-07-25/3179912.png!1000x.water2.png",
+  "group": "台北",
   "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-26",
-  "lastSeen": "2026-07-29",
+  "source": "萬華中正-可租補",
+  "firstSeen": "2026-07-30",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
-    "date": "2026-07-26",
-    "price": 25000
-   },
+    "date": "2026-07-30",
+    "price": 42000
+   }
+  ]
+ },
+ "21704529": {
+  "id": "21704529",
+  "title": "萬華新建案/租補稅籍/可寵/首批入住/採光通風/包裹垃圾收",
+  "link": "https://rent.591.com.tw/21704529",
+  "price": 45000,
+  "priceText": "45,000 元/月",
+  "spec": "整層住家3房1廳38.3坪8F/11F",
+  "address": "萬華艋舺商圈萬華區-艋舺大道",
+  "distance": "距龍山寺187公尺",
+  "tags": [
+   "影片賞屋",
+   "近捷運",
+   "新上架",
+   "租金補貼",
+   "可報稅",
+   "近商圈"
+  ],
+  "img": "https://img2.591.com.tw/video/cover/2026-07-25/3179914.png!1000x.water2.png",
+  "group": "台北",
+  "social": false,
+  "source": "萬華中正-可租補",
+  "firstSeen": "2026-07-30",
+  "lastSeen": "2026-07-30",
+  "priceHistory": [
    {
-    "date": "2026-07-27",
-    "price": 24000
-   },
-   {
-    "date": "2026-07-29",
-    "price": 22000
+    "date": "2026-07-30",
+    "price": 45000
    }
   ]
  },
@@ -4265,12 +3223,12 @@
    "可開伙",
    "免管理費"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/06/178330324826997908.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/07/06/178330324826997908.jpg!510x400.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-26",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-26",
@@ -4300,41 +3258,11 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-26",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-26",
     "price": 38000
-   }
-  ]
- },
- "21706825": {
-  "id": "21706825",
-  "title": "匯翠三房屋況美&可租補#禁任何寵物優選好屋",
-  "link": "https://rent.591.com.tw/21706825",
-  "price": 36800,
-  "priceText": "36,800 元/月",
-  "spec": "整層住家3房2廳34.2坪16F/19F",
-  "address": "聯上匯翠板橋區-華江一路",
-  "distance": "距新埔民生657公尺",
-  "tags": [
-   "近捷運",
-   "新上架",
-   "租金補貼",
-   "有電梯",
-   "隨時可遷入",
-   "可開伙"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/07/27/178513788396692104.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-26",
-  "lastSeen": "2026-07-28",
-  "priceHistory": [
-   {
-    "date": "2026-07-26",
-    "price": 36800
    }
   ]
  },
@@ -4360,41 +3288,11 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-27",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-27",
     "price": 42000
-   }
-  ]
- },
- "21707713": {
-  "id": "21707713",
-  "title": "板橋板新路新站巴黎高樓層3房2廳(自租,房介勿擾)優選好屋",
-  "link": "https://rent.591.com.tw/21707713",
-  "price": 37000,
-  "priceText": "37,000 元/月",
-  "spec": "整層住家3房2廳33坪10F/14F",
-  "address": "新站巴黎板橋區-板新路51號",
-  "distance": "距板新370公尺",
-  "tags": [
-   "屋主直租",
-   "近捷運",
-   "新上架",
-   "租金補貼",
-   "有電梯",
-   "隨時可遷入"
-  ],
-  "img": "https://img2.591.com.tw/house/2019/03/23/155330925346896300.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-27",
-  "lastSeen": "2026-07-29",
-  "priceHistory": [
-   {
-    "date": "2026-07-27",
-    "price": 37000
    }
   ]
  },
@@ -4419,7 +3317,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-27",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-27",
@@ -4444,12 +3342,12 @@
    "隨時可遷入",
    "可開伙"
   ],
-  "img": "https://img2.591.com.tw/house/2026/07/26/178505076068853708.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/26/178505076068853708.jpg!510x400.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-27",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-27",
@@ -4479,41 +3377,11 @@
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-27",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-27",
     "price": 32000
-   }
-  ]
- },
- "21709634": {
-  "id": "21709634",
-  "title": "新埔國小❤️可租補可寵貓狗可祭神明❤️台水台電優選好屋",
-  "link": "https://rent.591.com.tw/21709634",
-  "price": 24499,
-  "priceText": "24,499 元/月",
-  "spec": "整層住家3房1廳21坪3F/5F",
-  "address": "板橋區-文德路",
-  "distance": "距新海派出所99公尺",
-  "tags": [
-   "近捷運",
-   "新上架",
-   "租金補貼",
-   "可報稅",
-   "近商圈",
-   "隨時可遷入"
-  ],
-  "img": "https://img2.591.com.tw/house/2026/07/22/178469658078214004.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": false,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-27",
-  "lastSeen": "2026-07-29",
-  "priceHistory": [
-   {
-    "date": "2026-07-27",
-    "price": 24499
    }
   ]
  },
@@ -4534,12 +3402,12 @@
    "隨時可遷入",
    "可開伙"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/22/178469506755431403.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/07/22/178469506755431403.jpg!510x400.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-27",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-27",
@@ -4564,12 +3432,12 @@
    "隨時可遷入",
    "可開伙"
   ],
-  "img": "https://img2.591.com.tw/house/2026/07/12/178384764251593601.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/07/12/178384764251593601.jpg!510x400.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-27",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-27",
@@ -4599,11 +3467,39 @@
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-27",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-27",
     "price": 25000
+   }
+  ]
+ },
+ "21711277": {
+  "id": "21711277",
+  "title": "✨萬大路公寓✨",
+  "link": "https://rent.591.com.tw/21711277",
+  "price": 20000,
+  "priceText": "20,000 元/月",
+  "spec": "整層住家3房2廳20.8坪2F/4F",
+  "address": "萬華區-萬大路",
+  "distance": "距龍山寺880公尺",
+  "tags": [
+   "新上架",
+   "租金補貼",
+   "隨時可遷入",
+   "可開伙"
+  ],
+  "img": "https://img2.591.com.tw/house/2026/07/21/178462289128105101.jpg!510x400.jpg",
+  "group": "台北",
+  "social": false,
+  "source": "萬華中正-可租補",
+  "firstSeen": "2026-07-30",
+  "lastSeen": "2026-07-30",
+  "priceHistory": [
+   {
+    "date": "2026-07-30",
+    "price": 20000
    }
   ]
  },
@@ -4624,12 +3520,12 @@
    "租金補貼",
    "可報稅"
   ],
-  "img": "https://img2.591.com.tw/house/2026/03/31/177494731918022905.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/03/31/177494731918022905.jpg!510x400.jpg",
   "group": "板橋",
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-27",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-27",
@@ -4654,12 +3550,12 @@
    "社會住宅",
    "可報稅"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/04/178313599358036402.jpg!fit.1000x.water2.jpg",
+  "img": "https://img2.591.com.tw/house/2026/07/04/178313599358036402.jpg!fit.1000x.water2.jpg",
   "group": "板橋",
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-27",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-27",
@@ -4689,10 +3585,40 @@
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-28",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-28",
+    "price": 28000
+   }
+  ]
+ },
+ "21712783": {
+  "id": "21712783",
+  "title": "鄰近萬華車站交通伙食方便可報稅",
+  "link": "https://rent.591.com.tw/21712783",
+  "price": 28000,
+  "priceText": "28,000 元/月",
+  "spec": "整層住家3房2廳30坪5F/6F",
+  "address": "萬華區-艋舺大道120巷38弄",
+  "distance": "距龍山寺393公尺",
+  "tags": [
+   "近捷運",
+   "新上架",
+   "社會住宅",
+   "可報稅",
+   "近商圈",
+   "隨時可遷入"
+  ],
+  "img": "https://img2.591.com.tw/house/2026/07/29/178532574452413107.jpg!510x400.jpg",
+  "group": "台北",
+  "social": true,
+  "source": "萬華中正-社會住宅",
+  "firstSeen": "2026-07-30",
+  "lastSeen": "2026-07-30",
+  "priceHistory": [
+   {
+    "date": "2026-07-30",
     "price": 28000
    }
   ]
@@ -4719,11 +3645,41 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-28",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-28",
     "price": 33000
+   }
+  ]
+ },
+ "21715503": {
+  "id": "21715503",
+  "title": "捷運忠孝新生/大3房雙衛可申請租補-7月底看屋",
+  "link": "https://rent.591.com.tw/21715503",
+  "price": 65000,
+  "priceText": "65,000 元/月",
+  "spec": "整層住家3房2廳41.1坪3F/7F",
+  "address": "無中正區-金山南路一段67巷",
+  "distance": "距忠孝新生524公尺",
+  "tags": [
+   "近捷運",
+   "新上架",
+   "租金補貼",
+   "可報稅",
+   "近商圈",
+   "有電梯"
+  ],
+  "img": "https://img2.591.com.tw/house/2026/06/08/178091087193196109.jpg!510x400.jpg",
+  "group": "台北",
+  "social": false,
+  "source": "萬華中正-可租補",
+  "firstSeen": "2026-07-30",
+  "lastSeen": "2026-07-30",
+  "priceHistory": [
+   {
+    "date": "2026-07-30",
+    "price": 65000
    }
   ]
  },
@@ -4749,41 +3705,11 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-29",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-29",
     "price": 27000
-   }
-  ]
- },
- "21718430": {
-  "id": "21718430",
-  "title": "✨可租補/海山國中學區/近公園市場/適合小家庭優選好屋",
-  "link": "https://rent.591.com.tw/21718430",
-  "price": 24000,
-  "priceText": "24,000 元/月",
-  "spec": "整層住家3房1廳30坪4F/5F",
-  "address": "板橋區-海山路",
-  "distance": "距民族區運路口176公尺",
-  "tags": [
-   "近捷運",
-   "新上架",
-   "免服務費",
-   "社會住宅",
-   "租金補貼",
-   "可報稅"
-  ],
-  "img": "https://img1.591.com.tw/house/2026/07/28/178520673554045502.jpg!510x400.jpg",
-  "group": "板橋",
-  "social": true,
-  "source": "板橋-可租補",
-  "firstSeen": "2026-07-28",
-  "lastSeen": "2026-07-29",
-  "priceHistory": [
-   {
-    "date": "2026-07-28",
-    "price": 24000
    }
   ]
  },
@@ -4809,7 +3735,7 @@
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-29",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-29",
@@ -4839,7 +3765,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-29",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-29",
@@ -4869,7 +3795,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-29",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-29",
@@ -4899,7 +3825,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-29",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-29",
@@ -4924,16 +3850,46 @@
    "可開伙",
    "可養寵物"
   ],
-  "img": "https://img1.591.com.tw/house/2024/03/09/170995925281381603.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2024/03/09/170995925281381603.jpg!510x400.jpg",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-29",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-29",
     "price": 18000
+   }
+  ]
+ },
+ "21721494": {
+  "id": "21721494",
+  "title": "【低樓層、設備齊全、拎包入住、可貓】臺北縣市版_社宅包租代管優選好屋",
+  "link": "https://rent.591.com.tw/21721494",
+  "price": 22000,
+  "priceText": "22,000 元/月",
+  "spec": "整層住家3房1廳23.2坪3F/4F",
+  "address": "萬華區-西園路二段372巷3弄",
+  "distance": "距華江站734公尺",
+  "tags": [
+   "新上架",
+   "免服務費",
+   "社會住宅",
+   "可報稅",
+   "拎包入住",
+   "可開伙"
+  ],
+  "img": "https://img2.591.com.tw/house/2026/07/28/178522885394887006.jpg!510x400.jpg",
+  "group": "台北",
+  "social": true,
+  "source": "萬華中正-社會住宅",
+  "firstSeen": "2026-07-30",
+  "lastSeen": "2026-07-30",
+  "priceHistory": [
+   {
+    "date": "2026-07-30",
+    "price": 22000
    }
   ]
  },
@@ -4959,7 +3915,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-29",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-29",
@@ -4989,7 +3945,7 @@
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-29",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-29",
@@ -5014,12 +3970,12 @@
    "租金補貼",
    "可報稅"
   ],
-  "img": "https://img2.591.com.tw/house/2026/05/26/177976274919285205.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/05/26/177976274919285205.jpg!510x400.jpg",
   "group": "板橋",
   "social": true,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-29",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-29",
@@ -5049,7 +4005,7 @@
   "social": true,
   "source": "板橋-社會住宅",
   "firstSeen": "2026-07-29",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-29",
@@ -5079,7 +4035,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-29",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-29",
@@ -5109,7 +4065,7 @@
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-29",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-29",
@@ -5134,16 +4090,196 @@
    "拎包入住",
    "有電梯"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/29/178529659006164805.png!510x400.png",
+  "img": "https://img2.591.com.tw/house/2026/07/29/178529659006164805.png!510x400.png",
   "group": "板橋",
   "social": false,
   "source": "板橋-可租補",
   "firstSeen": "2026-07-29",
-  "lastSeen": "2026-07-29",
+  "lastSeen": "2026-07-30",
   "priceHistory": [
    {
     "date": "2026-07-29",
     "price": 30000
+   }
+  ]
+ },
+ "21725604": {
+  "id": "21725604",
+  "title": "租補善導寺捷運漂亮一樓:門口有固定車位屋況佳",
+  "link": "https://rent.591.com.tw/21725604",
+  "price": 45000,
+  "priceText": "45,000 元/月",
+  "spec": "整層住家3房2廳24坪1F/4F",
+  "address": "紹興北街31巷15弄4號中正區-紹興北街31巷15弄",
+  "distance": "距善導寺208公尺",
+  "tags": [
+   "近捷運",
+   "新上架",
+   "租金補貼",
+   "可報稅",
+   "近商圈",
+   "隨時可遷入"
+  ],
+  "img": "https://img1.591.com.tw/house/2026/07/29/178529894887266808.jpg!510x400.jpg",
+  "group": "台北",
+  "social": false,
+  "source": "萬華中正-可租補",
+  "firstSeen": "2026-07-30",
+  "lastSeen": "2026-07-30",
+  "priceHistory": [
+   {
+    "date": "2026-07-30",
+    "price": 45000
+   }
+  ]
+ },
+ "21728104": {
+  "id": "21728104",
+  "title": "☘️免爬高近捷運板橋站家庭補助4千起",
+  "link": "https://rent.591.com.tw/21728104",
+  "price": 22000,
+  "priceText": "22,000 元/月",
+  "spec": "整層住家3房1廳25坪2F/3F",
+  "address": "板橋區-民權路302巷1弄",
+  "distance": "距板橋553公尺",
+  "tags": [
+   "近捷運",
+   "新上架",
+   "租金補貼",
+   "可報稅",
+   "近商圈",
+   "隨時可遷入"
+  ],
+  "img": "https://img1.591.com.tw/house/2026/06/16/178158678992062707.jpg!510x400.jpg",
+  "group": "板橋",
+  "social": false,
+  "source": "板橋-可租補",
+  "firstSeen": "2026-07-30",
+  "lastSeen": "2026-07-30",
+  "priceHistory": [
+   {
+    "date": "2026-07-30",
+    "price": 22000
+   }
+  ]
+ },
+ "21728272": {
+  "id": "21728272",
+  "title": "✨可租補稅籍✨萬華車站✨全新首租✨邊間漂亮採光三房",
+  "link": "https://rent.591.com.tw/21728272",
+  "price": 41999,
+  "priceText": "41,999 元/月",
+  "spec": "整層住家3房1廳29.9坪8F/11F",
+  "address": "萬華區-艋舺大道",
+  "distance": "距龍山寺272公尺",
+  "tags": [
+   "近捷運",
+   "新上架",
+   "租金補貼",
+   "可報稅",
+   "近商圈",
+   "有電梯"
+  ],
+  "img": "https://img2.591.com.tw/house/2026/07/30/178537769242277901.jpg!510x400.jpg",
+  "group": "台北",
+  "social": false,
+  "source": "萬華中正-可租補",
+  "firstSeen": "2026-07-30",
+  "lastSeen": "2026-07-30",
+  "priceHistory": [
+   {
+    "date": "2026-07-30",
+    "price": 41999
+   }
+  ]
+ },
+ "21728616": {
+  "id": "21728616",
+  "title": "龍山寺站5分鐘｜萬華車站新建案首住｜可租補報稅入籍",
+  "link": "https://rent.591.com.tw/21728616",
+  "price": 42000,
+  "priceText": "42,000 元/月",
+  "spec": "整層住家3房1廳29.9坪8F/11F",
+  "address": "依社區名稱萬華區-艋舺大道",
+  "distance": "距龍山寺194公尺",
+  "tags": [
+   "近捷運",
+   "新上架",
+   "租金補貼",
+   "可報稅",
+   "近商圈",
+   "有電梯"
+  ],
+  "img": "https://img1.591.com.tw/house/2026/07/29/178531989044822302.jpg!510x400.jpg",
+  "group": "台北",
+  "social": false,
+  "source": "萬華中正-可租補",
+  "firstSeen": "2026-07-30",
+  "lastSeen": "2026-07-30",
+  "priceHistory": [
+   {
+    "date": "2026-07-30",
+    "price": 42000
+   }
+  ]
+ },
+ "21731096": {
+  "id": "21731096",
+  "title": "萬華車站1分鐘｜新大樓｜可租補｜多車位可另租",
+  "link": "https://rent.591.com.tw/21731096",
+  "price": 45000,
+  "priceText": "45,000 元/月",
+  "spec": "整層住家3房1廳32.5坪8F/11F",
+  "address": "萬華區-艋舺大道",
+  "distance": "距龍山寺274公尺",
+  "tags": [
+   "近捷運",
+   "新上架",
+   "租金補貼",
+   "可報稅",
+   "近商圈",
+   "有電梯"
+  ],
+  "img": "https://img1.591.com.tw/house/2026/07/30/178537697868615408.jpg!510x400.jpg",
+  "group": "台北",
+  "social": false,
+  "source": "萬華中正-可租補",
+  "firstSeen": "2026-07-30",
+  "lastSeen": "2026-07-30",
+  "priceHistory": [
+   {
+    "date": "2026-07-30",
+    "price": 45000
+   }
+  ]
+ },
+ "21731586": {
+  "id": "21731586",
+  "title": "近浮州車站，全新裝潢三房，大空間，可租補入籍，免服務費",
+  "link": "https://rent.591.com.tw/21731586",
+  "price": 17500,
+  "priceText": "17,500 元/月",
+  "spec": "整層住家3房1廳24坪2F/4F",
+  "address": "板橋區-大觀路二段174巷",
+  "distance": "距臺鐵浮洲站212公尺",
+  "tags": [
+   "新上架",
+   "社會住宅",
+   "可報稅",
+   "隨時可遷入",
+   "可開伙",
+   "免管理費"
+  ],
+  "img": "https://img1.591.com.tw/house/2026/07/30/178538098010413308.jpg!510x400.jpg",
+  "group": "板橋",
+  "social": true,
+  "source": "板橋-社會住宅",
+  "firstSeen": "2026-07-30",
+  "lastSeen": "2026-07-30",
+  "priceHistory": [
+   {
+    "date": "2026-07-30",
+    "price": 17500
    }
   ]
  }
