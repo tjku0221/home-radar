@@ -1,0 +1,19 @@
+# 資料檔一律用 LF 換行。
+# 原因：爬蟲在 Windows 跑會寫成 CRLF、GitHub Actions 在 Linux 跑寫成 LF，
+# 同一份資料就會被 git 判定「整個檔案 6676 行全改過」，實際內容一模一樣。
+# 2026-08-18 實際踩過：listings.json 出現 6676 行假差異，逐位元組比對才確認是換行字元。
+data/*.json text eol=lf
+data/*.js   text eol=lf
+
+# 爬蟲與網頁原始碼同理
+*.js   text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.md   text eol=lf
+*.yml  text eol=lf
+
+# 圖片等二進位檔不要動
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
