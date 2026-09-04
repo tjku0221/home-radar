@@ -31,7 +31,7 @@
  },
  "17085729": {
   "id": "17085729",
-  "title": "可租補後平均租金一位約1萬元！中正紀念堂站6分鐘3房優選好屋",
+  "title": "可三租補！平均租金一位約1萬元！中正紀念堂站6分鐘3房優選好屋",
   "link": "https://rent.591.com.tw/17085729",
   "price": 41500,
   "priceText": "41,500 元/月",
@@ -46,12 +46,12 @@
    "拎包入住",
    "隨時可遷入"
   ],
-  "img": "https://img2.591.com.tw/house/2024/07/29/172225185861301504.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2024/07/29/172225185861301504.jpg!510x400.jpg",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-09",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-09",
@@ -137,12 +137,12 @@
    "近商圈",
    "隨時可遷入"
   ],
-  "img": "https://img1.591.com.tw/house/2026/06/29/178271615475650707.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/06/29/178271615475650707.jpg!510x400.jpg",
   "group": "台北",
   "social": true,
   "source": "萬華中正-社會住宅",
   "firstSeen": "2026-07-22",
-  "lastSeen": "2026-08-30",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-07-22",
@@ -381,7 +381,7 @@
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-07-30",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-07-30",
@@ -900,7 +900,7 @@
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-09",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-09",
@@ -1057,12 +1057,12 @@
    "免管理費",
    "可入籍"
   ],
-  "img": "https://img1.591.com.tw/house/2026/08/11/178643737809706101.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/08/11/178643737809706101.jpg!510x400.jpg",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-19",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-19",
@@ -1117,12 +1117,12 @@
    "可開伙",
    "可養寵物"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/24/178488383931373405.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/07/24/178488383931373405.jpg!510x400.jpg",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-29",
-  "lastSeen": "2026-08-31",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-29",
@@ -1272,7 +1272,7 @@
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-29",
-  "lastSeen": "2026-08-31",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-29",
@@ -1627,12 +1627,12 @@
    "可開伙",
    "可養寵物"
   ],
-  "img": "https://img1.591.com.tw/house/2026/08/12/178652759739344004.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/08/12/178652759739344004.jpg!510x400.jpg",
   "group": "台北",
   "social": true,
   "source": "萬華中正-社會住宅",
   "firstSeen": "2026-08-13",
-  "lastSeen": "2026-08-30",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-13",
@@ -1671,6 +1671,36 @@
    {
     "date": "2026-08-27",
     "price": 39900
+   }
+  ]
+ },
+ "21824087": {
+  "id": "21824087",
+  "title": "果菜市場2樓公寓",
+  "link": "https://rent.591.com.tw/21824087",
+  "price": 28000,
+  "priceText": "28,000 元/月",
+  "spec": "整層住家3房2廳30坪頂樓加蓋/1F",
+  "address": "萬華區-萬大路486巷31號",
+  "distance": "距青年路派出所597公尺",
+  "tags": [
+   "新上架",
+   "租金補貼",
+   "可報稅",
+   "隨時可遷入",
+   "可開伙",
+   "可入籍"
+  ],
+  "img": "https://img1.591.com.tw/house/2026/09/03/178839914997926408.jpg!510x400.jpg",
+  "group": "台北",
+  "social": false,
+  "source": "萬華中正-可租補",
+  "firstSeen": "2026-09-04",
+  "lastSeen": "2026-09-04",
+  "priceHistory": [
+   {
+    "date": "2026-09-04",
+    "price": 28000
    }
   ]
  },
@@ -1846,7 +1876,7 @@
   "social": true,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-19",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-19",
@@ -1876,7 +1906,7 @@
   "social": true,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-19",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-19",
@@ -2481,7 +2511,7 @@
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-23",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-23",
@@ -2635,7 +2665,7 @@
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-23",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-23",
@@ -2763,7 +2793,7 @@
   "social": true,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-23",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-23",
@@ -2788,12 +2818,12 @@
    "可開伙",
    "可入籍"
   ],
-  "img": "https://img1.591.com.tw/house/2026/08/20/178722415290923706.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/08/20/178722415290923706.jpg!510x400.jpg",
   "group": "台北",
   "social": true,
   "source": "萬華中正-社會住宅",
   "firstSeen": "2026-08-26",
-  "lastSeen": "2026-08-30",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-26",
@@ -2863,13 +2893,13 @@
  },
  "21870016": {
   "id": "21870016",
-  "title": "萬華車站1分鐘｜新大樓｜可租補｜多車位可另租",
+  "title": "萬華車站1分鐘｜新大樓｜可租補報稅｜車位休旅可",
   "link": "https://rent.591.com.tw/21870016",
-  "price": 45000,
-  "priceText": "45,000 元/月",
-  "spec": "整層住家3房1廳32.5坪8F/11F",
+  "price": 42000,
+  "priceText": "42,000 元/月",
+  "spec": "整層住家3房1廳29.9坪8F/11F",
   "address": "萬華區-艋舺大道",
-  "distance": "距龍山寺201公尺",
+  "distance": "距龍山寺272公尺",
   "tags": [
    "近捷運",
    "新上架",
@@ -2878,16 +2908,20 @@
    "近商圈",
    "有電梯"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/30/178537697868615408.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/09/02/178833444750891100.jpg!510x400.jpg",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-23",
-  "lastSeen": "2026-08-31",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-23",
     "price": 45000
+   },
+   {
+    "date": "2026-09-04",
+    "price": 42000
    }
   ]
  },
@@ -3033,7 +3067,7 @@
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-23",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-23",
@@ -3062,12 +3096,12 @@
    "近商圈",
    "隨時可遷入"
   ],
-  "img": "https://img2.591.com.tw/video/cover/2026-08-21/3217273.png!1000x.water2.png",
+  "img": "https://img1.591.com.tw/video/cover/2026-08-21/3217273.png!1000x.water2.png",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-23",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-23",
@@ -3097,7 +3131,7 @@
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-23",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-23",
@@ -3122,12 +3156,12 @@
    "近商圈",
    "有電梯"
   ],
-  "img": "https://img2.591.com.tw/video/cover/2026-07-25/3179914.png!1000x.water2.png",
+  "img": "https://img1.591.com.tw/video/cover/2026-07-25/3179914.png!1000x.water2.png",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-23",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-23",
@@ -3152,12 +3186,12 @@
    "近商圈",
    "有電梯"
   ],
-  "img": "https://img1.591.com.tw/video/cover/2026-07-25/3179912.png!1000x.water2.png",
+  "img": "https://img2.591.com.tw/video/cover/2026-07-25/3179912.png!1000x.water2.png",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-23",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-23",
@@ -3187,7 +3221,7 @@
   "social": true,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-23",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-23",
@@ -3217,7 +3251,7 @@
   "social": true,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-23",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-23",
@@ -3664,12 +3698,12 @@
    "近商圈",
    "隨時可遷入"
   ],
-  "img": "https://img1.591.com.tw/house/2026/08/25/178764276636828108.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/08/25/178764276636828108.jpg!510x400.jpg",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-26",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-26",
@@ -3759,7 +3793,7 @@
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-09-02",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-09-02",
@@ -3813,12 +3847,12 @@
    "可開伙",
    "可入籍"
   ],
-  "img": "https://img1.591.com.tw/house/2026/09/01/178820314645254301.png!510x400.png",
+  "img": "https://img2.591.com.tw/house/2026/09/01/178820314645254301.png!510x400.png",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-27",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-27",
@@ -4156,6 +4190,36 @@
    }
   ]
  },
+ "21908482": {
+  "id": "21908482",
+  "title": "青年公園邊間簡約宅可租補免服務費",
+  "link": "https://rent.591.com.tw/21908482",
+  "price": 26000,
+  "priceText": "26,000 元/月",
+  "spec": "整層住家3房2廳28坪3F/4F",
+  "address": "萬華區-萬大路312巷",
+  "distance": "距青年路派出所376公尺",
+  "tags": [
+   "社會住宅",
+   "租金補貼",
+   "可報稅",
+   "近商圈",
+   "隨時可遷入",
+   "可開伙"
+  ],
+  "img": "https://img1.591.com.tw/house/2026/08/24/178754246291767700.jpg!510x400.jpg",
+  "group": "台北",
+  "social": true,
+  "source": "萬華中正-可租補",
+  "firstSeen": "2026-09-04",
+  "lastSeen": "2026-09-04",
+  "priceHistory": [
+   {
+    "date": "2026-09-04",
+    "price": 26000
+   }
+  ]
+ },
  "21908804": {
   "id": "21908804",
   "title": "🎠免仲介費可租補丨近捷運府站丨林家花園旁丨近台藝大丨社宅優選好屋",
@@ -4197,18 +4261,18 @@
   "distance": "距龍山寺793公尺",
   "tags": [
    "近捷運",
-   "新上架",
    "免服務費",
    "社會住宅",
    "租金補貼",
-   "可報稅"
+   "可報稅",
+   "隨時可遷入"
   ],
-  "img": "https://img2.591.com.tw/house/2026/08/28/178788986896332804.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/08/28/178788986896332804.jpg!510x400.jpg",
   "group": "台北",
   "social": true,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-29",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-29",
@@ -4288,17 +4352,17 @@
   "tags": [
    "影片賞屋",
    "近捷運",
-   "新上架",
    "租金補貼",
    "拎包入住",
-   "近商圈"
+   "近商圈",
+   "隨時可遷入"
   ],
   "img": "https://img2.591.com.tw/video/cover/2026-08-01/3189073.png!1000x.water2.png",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-29",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-29",
@@ -4482,7 +4546,7 @@
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-30",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-30",
@@ -4609,6 +4673,36 @@
    }
   ]
  },
+ "21922709": {
+  "id": "21922709",
+  "title": "[仲介勿擾]全新裝修首租三房兩廳/租約需公證/可入籍報稅租補",
+  "link": "https://rent.591.com.tw/21922709",
+  "price": 39500,
+  "priceText": "39,500 元/月",
+  "spec": "整層住家3房2廳33.4坪3F/10F",
+  "address": "金寶大樓萬華區-貴陽街二段",
+  "distance": "距龍山寺582公尺",
+  "tags": [
+   "屋主直租",
+   "近捷運",
+   "新上架",
+   "租金補貼",
+   "可報稅",
+   "有電梯"
+  ],
+  "img": "https://img2.591.com.tw/house/2026/08/31/178813435147229406.jpg!510x400.jpg",
+  "group": "台北",
+  "social": false,
+  "source": "萬華中正-可租補",
+  "firstSeen": "2026-09-04",
+  "lastSeen": "2026-09-04",
+  "priceHistory": [
+   {
+    "date": "2026-09-04",
+    "price": 39500
+   }
+  ]
+ },
  "21922835": {
   "id": "21922835",
   "title": "🏠板橋站｜公寓3房｜可自行申請租補優選好屋",
@@ -4656,12 +4750,12 @@
    "隨時可遷入",
    "可開伙"
   ],
-  "img": "https://img2.591.com.tw/house/2026/09/01/178824815913285208.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/09/01/178824815913285208.jpg!510x400.jpg",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-08-31",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-08-31",
@@ -4744,12 +4838,12 @@
    "租金補貼",
    "隨時可遷入"
   ],
-  "img": "https://img2.591.com.tw/house/2025/07/16/175265677190208900.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2025/07/16/175265677190208900.jpg!510x400.jpg",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-09-02",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-09-02",
@@ -4981,12 +5075,12 @@
    "隨時可遷入",
    "可開伙"
   ],
-  "img": "https://img1.591.com.tw/house/2025/07/31/175394814071280601.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2025/07/31/175394814071280601.jpg!510x400.jpg",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-09-02",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-09-02",
@@ -5041,12 +5135,12 @@
    "租金補貼",
    "可報稅"
   ],
-  "img": "https://img1.591.com.tw/house/2026/09/01/178824774896151108.jpg!510x400.jpg",
+  "img": "https://img2.591.com.tw/house/2026/09/01/178824774896151108.jpg!510x400.jpg",
   "group": "台北",
   "social": true,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-09-02",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-09-02",
@@ -5131,12 +5225,12 @@
    "有電梯",
    "隨時可遷入"
   ],
-  "img": "https://img1.591.com.tw/house/2026/07/20/178453118662174009.jpg!510x400.jpg",
+  "img": "https://img1.591.com.tw/house/2026/09/01/178825535928320505.jpg!510x400.jpg",
   "group": "台北",
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-09-02",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-09-02",
@@ -5256,7 +5350,7 @@
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-09-02",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-09-02",
@@ -5406,7 +5500,7 @@
   "social": false,
   "source": "萬華中正-可租補",
   "firstSeen": "2026-09-02",
-  "lastSeen": "2026-09-02",
+  "lastSeen": "2026-09-04",
   "priceHistory": [
    {
     "date": "2026-09-02",
@@ -5534,6 +5628,36 @@
    }
   ]
  },
+ "21941499": {
+  "id": "21941499",
+  "title": "❤️小南門站🔸可租補報稅入籍🔸獨立雙陽台🔸廚房可炊",
+  "link": "https://rent.591.com.tw/21941499",
+  "price": 45000,
+  "priceText": "45,000 元/月",
+  "spec": "整層住家3房2廳21坪5F/5F",
+  "address": "❤️看房請+Line中正區-和平西路二段",
+  "distance": "距泉州街口65公尺",
+  "tags": [
+   "近捷運",
+   "新上架",
+   "租金補貼",
+   "可報稅",
+   "近商圈",
+   "隨時可遷入"
+  ],
+  "img": "https://img2.591.com.tw/house/2026/07/25/178490898308026109.jpg!510x400.jpg",
+  "group": "台北",
+  "social": false,
+  "source": "萬華中正-可租補",
+  "firstSeen": "2026-09-04",
+  "lastSeen": "2026-09-04",
+  "priceHistory": [
+   {
+    "date": "2026-09-04",
+    "price": 45000
+   }
+  ]
+ },
  "21941750": {
   "id": "21941750",
   "title": "✔🍎｜江翠北側｜3房｜全新裝潢｜無人住過",
@@ -5561,6 +5685,185 @@
    {
     "date": "2026-09-03",
     "price": 57000
+   }
+  ]
+ },
+ "21944635": {
+  "id": "21944635",
+  "title": "中正學區/可租補入籍/可寵",
+  "link": "https://rent.591.com.tw/21944635",
+  "price": 27000,
+  "priceText": "27,000 元/月",
+  "spec": "整層住家3房2廳28坪4F/4F",
+  "address": "中正區-詔安街50巷8弄8號",
+  "distance": "距螢橋國小231公尺",
+  "tags": [
+   "新上架",
+   "免服務費",
+   "社會住宅",
+   "可報稅",
+   "隨時可遷入",
+   "可開伙"
+  ],
+  "img": "https://img1.591.com.tw/house/2026/09/03/178840122041489000.jpg!510x400.jpg",
+  "group": "台北",
+  "social": true,
+  "source": "萬華中正-社會住宅",
+  "firstSeen": "2026-09-04",
+  "lastSeen": "2026-09-04",
+  "priceHistory": [
+   {
+    "date": "2026-09-04",
+    "price": 27000
+   }
+  ]
+ },
+ "21950007": {
+  "id": "21950007",
+  "title": "萬華車站1分鐘｜新大樓｜可租補｜多車位可另租",
+  "link": "https://rent.591.com.tw/21950007",
+  "price": 45000,
+  "priceText": "45,000 元/月",
+  "spec": "整層住家3房1廳32.5坪8F/11F",
+  "address": "萬華區-艋舺大道",
+  "distance": "距龍山寺201公尺",
+  "tags": [
+   "近捷運",
+   "新上架",
+   "租金補貼",
+   "可報稅",
+   "近商圈",
+   "有電梯"
+  ],
+  "img": "https://img2.591.com.tw/house/2026/07/30/178537697868615408.jpg!510x400.jpg",
+  "group": "台北",
+  "social": false,
+  "source": "萬華中正-可租補",
+  "firstSeen": "2026-09-04",
+  "lastSeen": "2026-09-04",
+  "priceHistory": [
+   {
+    "date": "2026-09-04",
+    "price": 45000
+   }
+  ]
+ },
+ "21950307": {
+  "id": "21950307",
+  "title": "💎近青年公園🌈租補.低樓層.通風採光三房",
+  "link": "https://rent.591.com.tw/21950307",
+  "price": 35000,
+  "priceText": "35,000 元/月",
+  "spec": "整層住家3房2廳25.6坪3F/5F",
+  "address": "萬華區-萬大路387巷",
+  "distance": "距青年路派出所250公尺",
+  "tags": [
+   "新上架",
+   "租金補貼",
+   "可報稅",
+   "拎包入住",
+   "隨時可遷入",
+   "可開伙"
+  ],
+  "img": "https://img1.591.com.tw/house/2026/08/27/178782602100565601.jpg!510x400.jpg",
+  "group": "台北",
+  "social": false,
+  "source": "萬華中正-可租補",
+  "firstSeen": "2026-09-04",
+  "lastSeen": "2026-09-04",
+  "priceHistory": [
+   {
+    "date": "2026-09-04",
+    "price": 35000
+   }
+  ]
+ },
+ "21950309": {
+  "id": "21950309",
+  "title": "💎近萬華火車站🌈全新成屋.租補報稅採光三房✨",
+  "link": "https://rent.591.com.tw/21950309",
+  "price": 42000,
+  "priceText": "42,000 元/月",
+  "spec": "整層住家3房2廳30坪8F/11F",
+  "address": "黃先生0989989517萬華區-艋舺大道",
+  "distance": "距龍山寺376公尺",
+  "tags": [
+   "近捷運",
+   "新上架",
+   "租金補貼",
+   "可報稅",
+   "近商圈",
+   "有電梯"
+  ],
+  "img": "https://img2.591.com.tw/house/2026/08/12/178654587368457100.jpg!510x400.jpg",
+  "group": "台北",
+  "social": false,
+  "source": "萬華中正-可租補",
+  "firstSeen": "2026-09-04",
+  "lastSeen": "2026-09-04",
+  "priceHistory": [
+   {
+    "date": "2026-09-04",
+    "price": 42000
+   }
+  ]
+ },
+ "21950388": {
+  "id": "21950388",
+  "title": "廈門街靜巷公寓3防",
+  "link": "https://rent.591.com.tw/21950388",
+  "price": 21000,
+  "priceText": "21,000 元/月",
+  "spec": "整層住家3房2廳25坪4F/4F",
+  "address": "中正區-廈門街71巷8弄",
+  "distance": "距古亭493公尺",
+  "tags": [
+   "近捷運",
+   "新上架",
+   "租金補貼",
+   "隨時可遷入",
+   "可開伙",
+   "可養寵物"
+  ],
+  "img": "https://s.591.com.tw/house/list-no-photo.D_uUth2x.png",
+  "group": "台北",
+  "social": false,
+  "source": "萬華中正-可租補",
+  "firstSeen": "2026-09-04",
+  "lastSeen": "2026-09-04",
+  "priceHistory": [
+   {
+    "date": "2026-09-04",
+    "price": 21000
+   }
+  ]
+ },
+ "21952058": {
+  "id": "21952058",
+  "title": "萬華民和街｜近30坪三房兩廳(仲介勿擾)｜可租補｜全新冷氣",
+  "link": "https://rent.591.com.tw/21952058",
+  "price": 30000,
+  "priceText": "30,000 元/月",
+  "spec": "整層住家3房2廳30坪3F/5F",
+  "address": "萬華區-民和街22號",
+  "distance": "距龍山寺883公尺",
+  "tags": [
+   "屋主直租",
+   "新上架",
+   "租金補貼",
+   "可開伙",
+   "免管理費"
+  ],
+  "img": "https://img1.591.com.tw/house/2026/09/04/178849252912867603.jpg!510x400.jpg",
+  "group": "台北",
+  "social": false,
+  "source": "萬華中正-可租補",
+  "firstSeen": "2026-09-04",
+  "lastSeen": "2026-09-04",
+  "priceHistory": [
+   {
+    "date": "2026-09-04",
+    "price": 30000
    }
   ]
  }
