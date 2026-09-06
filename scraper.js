@@ -8,16 +8,23 @@ const DATA_DIR = path.join(__dirname, 'data');
 const JSON_FILE = path.join(DATA_DIR, 'listings.json');
 const JS_FILE = path.join(DATA_DIR, 'listings.js');
 
-const SEARCHES = [
-  { name: '板橋-社會住宅', group: '板橋', social: true,
-    url: 'https://rent.591.com.tw/list?region=3&section=26&layout=3&other=social-housing' },
-  { name: '板橋-可租補', group: '板橋', social: false,
-    url: 'https://rent.591.com.tw/list?region=3&section=26&layout=3&other=rental-subsidy' },
-  { name: '萬華中正-社會住宅', group: '台北', social: true,
-    url: 'https://rent.591.com.tw/list?region=1&section=1,6&layout=3&other=social-housing' },
-  { name: '萬華中正-可租補', group: '台北', social: false,
-    url: 'https://rent.591.com.tw/list?region=1&section=1,6&layout=3&other=rental-subsidy' },
+// 六區同等優先：板橋/永和/新莊（新北 region=3）、萬華/中正/大同（台北 region=1）
+// 每區各自一組搜尋，group 即區名；某區當輪被擋只跳過該區清理，不影響其他區
+const DISTRICTS = [
+  { group: '板橋', region: 3, section: 26 },
+  { group: '永和', region: 3, section: 37 },
+  { group: '新莊', region: 3, section: 44 },
+  { group: '中正', region: 1, section: 1 },
+  { group: '大同', region: 1, section: 2 },
+  { group: '萬華', region: 1, section: 6 },
 ];
+const SEARCHES = DISTRICTS.flatMap((d) => [
+  { name: `${d.group}-社會住宅`, group: d.group, social: true,
+    url: `https://rent.591.com.tw/list?region=${d.region}&section=${d.section}&layout=3&other=social-housing` },
+  { name: `${d.group}-可租補`, group: d.group, social: false,
+    url: `https://rent.591.com.tw/list?region=${d.region}&section=${d.section}&layout=3&other=rental-subsidy` },
+]);
+const ALL_SOURCES = new Set(SEARCHES.map((s) => s.name));
 
 const MAX_PAGES = 10;
 const today = new Date().toISOString().slice(0, 10);
@@ -99,12 +106,14 @@ async function scrapeSearch(page, search) {
   const page = await ctx.newPage();
 
   let scrapedTotal = 0;
-  let anyFailed = false;
+  let anyFailed = false; // 僅供結尾統計訊息參考
+  const okSources = new Set(); // 本輪成功掃到的搜尋來源，清理時只動這些
   for (const s of SEARCHES) {
     console.log(`🔍 ${s.name}`);
     try {
       const items = await scrapeSearch(page, s);
       if (items.length === 0) throw new Error('抓到 0 筆，可能被 591 擋下或頁面結構改變');
+      okSources.add(s.name);
       scrapedTotal += items.length;
       for (const it of items) {
         const old = db[it.id];
@@ -127,21 +136,22 @@ async function scrapeSearch(page, search) {
   }
 
   // 下架即刪：本次沒掃到的物件連紀錄帶縮圖一起刪除
-  // （若任一搜尋失敗則跳過清理，避免誤把整批物件當成下架刪掉）
-  if (!anyFailed) {
+  // 逐區判斷：只刪「來源搜尋這輪有成功」的物件，某區被擋就整區跳過清理，不影響其他區
+  {
     const IMG_DIR_C = path.join(DATA_DIR, 'img');
-    let removed = 0;
+    let removed = 0, skipped = 0;
     for (const [id, it] of Object.entries(db)) {
-      if (it.lastSeen !== today) {
-        const f = path.join(IMG_DIR_C, id + '.jpg');
-        try { if (fs.existsSync(f)) fs.unlinkSync(f); } catch {}
-        delete db[id];
-        removed++;
-      }
+      if (it.lastSeen === today) continue;
+      // 來源是現行搜尋之一、但這輪沒成功（被 591 擋）→ 該區整批保留，不誤刪
+      if (ALL_SOURCES.has(it.source) && !okSources.has(it.source)) { skipped++; continue; }
+      // 其餘（來源這輪成功、或來源已不在搜尋清單的舊資料）→ 視為下架清掉
+      const f = path.join(IMG_DIR_C, id + '.jpg');
+      try { if (fs.existsSync(f)) fs.unlinkSync(f); } catch {}
+      delete db[id];
+      removed++;
     }
     if (removed) console.log(`🧹 已刪除 ${removed} 筆下架物件（含縮圖）`);
-  } else {
-    console.log('⚠️ 有搜尋失敗，本次跳過下架清理');
+    if (skipped) console.log(`⚠️ ${skipped} 筆物件來源搜尋本輪未成功，跳過清理`);
   }
   // 下載封面縮圖到本機（data/img/物件ID.jpg），避免圖床防盜連
   // CI（GitHub Actions）不下載也不 commit 圖片，網頁自動改用直連圖床備援
